@@ -39,28 +39,28 @@ ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design o
 
 **2020**
 
-**Almakhles, Dhafer**. Two-level quantised control systems: sliding-mode approach. _International Journal of Control_, 93(3):680–688, 2020
+**Almakhles, Dhafer**. Two-level quantised control systems: sliding-mode approach. _International Journal of Control_, 93(3):680–688, 2020. [DOI](https://doi.org/10.1080/00207179.2018.1484569)
 
-**Almakhles, Dhafer**. Sliding mode control as binary-based quantizers. _Asian Journal of Control_, 22(3):1090–1098, 2020
+**Almakhles, Dhafer**. Sliding mode control as binary-based quantizers. _Asian Journal of Control_, 22(3):1090–1098, 2020. [DOI](https://doi.org/10.1002/asjc.2052)
 
-**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sanjeevikumar Padmanaban, Mahajan Sagar Bhaskar, Umashankar Subramaniam, and Rathinasamy Sakthivel. An original hybrid multilevel dc-ac converter using single-double source unit for medium voltage applications: Hardware implementation and investigation. _IEEE Access_, 8:71291–71301, 2020
+**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sanjeevikumar Padmanaban, Mahajan Sagar Bhaskar, Umashankar Subramaniam, and Rathinasamy Sakthivel. An original hybrid multilevel dc-ac converter using single-double source unit for medium voltage applications: Hardware implementation and investigation. _IEEE Access_, 8:71291–71301, 2020. [DOI](https://ieeexplore.ieee.org/document/9062550)
 
-**Almakhles, Dhafer**. The complex adaptive delta-modulator in sliding mode theory. _Entropy_, 22(8):814, 2020
+**Almakhles, Dhafer**. The complex adaptive delta-modulator in sliding mode theory. _Entropy_, 22(8):814, 2020. [DOI](https://doi.org/10.3390/e22080814)
 
-**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sivakumar Selvam, Mahajan Sagar Bhaskar, and N Sandeep. Switched capacitor-based 13l inverter topology for high-frequency ac power distribution system. _IEEE Journal of Emerging and Selected Topics in Power Electronics_, 9(5):5883–5894, 2020
+**Almakhles, Dhafer**, Jagabar Sathik Mohamed Ali, Sivakumar Selvam, Mahajan Sagar Bhaskar, and N Sandeep. Switched capacitor-based 13l inverter topology for high-frequency ac power distribution system. _IEEE Journal of Emerging and Selected Topics in Power Electronics_, 9(5):5883–5894, 2020.[DOI](https://ieeexplore.ieee.org/document/9288793)
 
-S Harshavarthini, Subramaniam Selvi, R Sakthivel, and **Almakhles, Dhafer**. Non-fragile fault alarm-based hybrid control for the attitude quadrotor model with actuator saturation. _IEEE Transactions on Circuits and Systems_ II: Express Briefs, 67(11):2647–2651, 2020
+S Harshavarthini, Subramaniam Selvi, R Sakthivel, and **Almakhles, Dhafer**. Non-fragile fault alarm-based hybrid control for the attitude quadrotor model with actuator saturation. _IEEE Transactions on Circuits and Systems_ II: Express Briefs, 67(11):2647–2651, 2020. [DOI](https://ieeexplore.ieee.org/document/8956058)
 
-S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time consensus for power regulation of parallel pv grid-connected inverters. _IEEE Transactions on Circuits and Systems_ II-Express Briefs, 67(11):2647–2651, 2020
+S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time consensus for power regulation of parallel pv grid-connected inverters. _IEEE Transactions on Circuits and Systems_ II-Express Briefs, 67(11):2647–2651, 2020. [DOI](https://ieeexplore.ieee.org/document/8956041)
 
 **2019**
 
-**Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019
+**Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019. [DOI](https://ieeexplore.ieee.org/document/8944049)
 
 **2016**
 
-**Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. _IEEE Transactions on Control Systems Technology_,25(3):1084–1091, 2016
+**Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. _IEEE Transactions on Control Systems Technology_,25(3):1084–1091, 2016. [DOI](https://ieeexplore.ieee.org/document/7492609)
 
 **2014**
 
-**Almakhles, Dhafer**, Akshya K Swain, and Nitish D Patel. Stability and performance analysis of bit-stream-based feedback control systems. _IEEE Transactions on Industrial Electronics_, 62(7):4319–4327, 2014
+**Almakhles, Dhafer**, Akshya K Swain, and Nitish D Patel. Stability and performance analysis of bit-stream-based feedback control systems. _IEEE Transactions on Industrial Electronics_, 62(7):4319–4327, 2014. [DOI](https://ieeexplore.ieee.org/document/6985657)
