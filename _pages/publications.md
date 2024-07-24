@@ -15,27 +15,25 @@ author_profile: true
 
 **2023**
 
-Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. _IEEE Transactions on Industrial
-Electronics_, 2023
+Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. _IEEE Transactions on Industrial Electronics_, 2023. [DOI](https://ieeexplore.ieee.org/document/10083078)
 
-Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. _IEEE Transactions on Transportation Electrification_, 2023
+Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. _IEEE Transactions on Transportation Electrification_, 2023. [DOI](https://ieeexplore.ieee.org/document/10214343)
 
-Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductive wireless power transfer system using genetic algorithm. _Processes_, 11(6):1859, 2023
+Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductive wireless power transfer system using genetic algorithm. _Processes_, 11(6):1859, 2023. [DOI](https://www.mdpi.com/2227-9717/11/6/1859)
 
-Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback event-triggered controllers for load frequency regulation in hybrid wind–diesel power systems.
-_Applied Sciences_, 13(17):9652, 2023
+Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback event-triggered controllers for load frequency regulation in hybrid wind–diesel power systems._Applied Sciences_, 13(17):9652, 2023. [DOI](https://www.mdpi.com/2076-3417/13/17/9652)
 
 **2022**
 
-**Almakhles, Dhafer** , ChathuraWanigasekara, and Akshya Swain. Delta modulator based quantised state-feedback control of networked linear systems. _IEEE Access_, 10:48865–48874, 2022
+**Almakhles, Dhafer** , ChathuraWanigasekara, and Akshya Swain. Delta modulator based quantised state-feedback control of networked linear systems. _IEEE Access_, 10:48865–48874, 2022. [DOI](https://ieeexplore.ieee.org/document/9767834)
 
-**Almakhles, Dhafer** and M Jagabar Sathik. Single-phase transformerless nine-level inverter with voltage boosting ability for pv fed ac microgrid applications. _Scientific reports_, 12(1):13442, 2022
+**Almakhles, Dhafer** and M Jagabar Sathik. Single-phase transformerless nine-level inverter with voltage boosting ability for pv fed ac microgrid applications. _Scientific reports_, 12(1):13442, 2022. [DOI](https://doi.org/10.1038/s41598-022-16057-x)
 
-**Almakhles, Dhafer** , Divya Navamani Jayachandran, Lavanya Anbazhagan, Marwa Hannachi, and Jagabar Sathik Mohamed Ali. Dynamic analysis of extendable hybrid voltage lift dc–dc converter for dc microgrid. _Processes_, 10(12):2652, 2022
+**Almakhles, Dhafer** , Divya Navamani Jayachandran, Lavanya Anbazhagan, Marwa Hannachi, and Jagabar Sathik Mohamed Ali. Dynamic analysis of extendable hybrid voltage lift dc–dc converter for dc microgrid. _Processes_, 10(12):2652, 2022. [DOI](https://www.mdpi.com/2227-9717/10/12/2652)
+
+Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, Dhafer** , Daniele Bosich, and Josep M Guerrero. Dc shipboard microgrids with constant power loads: A review of advanced nonlinear control strategies and stabilization techniques. _IEEE Transactions on Smart Grid_, 13(5):3422–3438, 2022. [DOI](https://ieeexplore.ieee.org/document/9759475)
 
 **2021**
-
-Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, Dhafer** , Daniele Bosich, and Josep M Guerrero. Dc shipboard microgrids with constant power loads: A review of advanced nonlinear control strategies and stabilization techniques. _IEEE Transactions on Smart Grid_, 13(5):3422–3438, 2022
 
 ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021
 
