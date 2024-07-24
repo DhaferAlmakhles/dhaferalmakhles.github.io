@@ -35,7 +35,7 @@ Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, 
 
 **2021**
 
-ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021
+ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021. [DOI](https://ieeexplore.ieee.org/document/9609574)
 
 **2020**
 
