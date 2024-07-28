@@ -141,13 +141,13 @@ Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, 
 
 Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
 
-Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
+Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif. Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5, 2019
 
-Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5
+Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew. Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5, 2020 
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo. Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6, 2020
 
-Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
+Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020
 
 Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, **Almakhles, Dhafer** ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
 
