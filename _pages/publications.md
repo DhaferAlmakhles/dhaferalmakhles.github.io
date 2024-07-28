@@ -219,24 +219,23 @@ Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, 
 
 Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
 
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6,  2020 
 
-Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6, 2023 
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul, Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 
 
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer** ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
 
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 
 
-Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
+Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif. Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5, 2019 
 
-Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5
+Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew. Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5, 2020
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo. Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6, 2020 
 
 Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020
-
 
 Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022
 
