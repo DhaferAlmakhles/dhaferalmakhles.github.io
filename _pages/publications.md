@@ -211,20 +211,36 @@ Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dh
 
 Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
 
-Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
-Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, Almakhles, Dhafer, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
-Gupta, Nikita, Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
-Gupta, Nikita, Almakhles, Dhafer, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
-Bhaskar, MS, Patel, Nil, Almakhles, Dhafer, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
-Elmorshedy, Mahmoud F, Almakhles, Dhafer, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, Almakhles, DJ ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, Almakhles, Dhafer, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
-Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, Almakhles, Dhafer, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
-Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, Almakhles, Dhafer, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling , pages 1--5
-Gupta, Nikita, Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
-Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, Almakhles, Dhafer, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
-Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, Almakhles, Dhafer ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
-Marey, Amr, Bhaskar, MS, Almakhles, Dhafer, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for 400V DC Grid System , pages 1--6
-Marey, Amr, Bhaskar, MS, Almakhles, Dhafer, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, Almakhles, Dhafer, Gowaid, IA, Farrag, Mohamed Emad ( 2022 ) Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6
+Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
+
+Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
+
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
+
+Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
+
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
+
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
+
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
+
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer** ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
+
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
+
+Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
+
+Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5
+
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
+
+Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
+
+Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer** ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for 400V DC Grid System , pages 1--6
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6
+
+Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad ( 2022 ) Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6
