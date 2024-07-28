@@ -209,17 +209,17 @@ Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N ( 2022
 
 Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra ( 2021 ) A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6
 
-Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6, 2019 
 
-Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
+Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 
 
-Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
+Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6,  2020 
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 
 
-Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
+Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020 
 
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6,  2020 
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 
 
 Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6, 2023 
 
