@@ -235,12 +235,13 @@ Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Al
 
 Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
 
-Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
+Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020
 
-Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer** ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for 400V DC Grid System , pages 1--6
+Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for 400V DC Grid System , pages 1--6, 2022
 
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad ( 2022 ) Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022 
+
+Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022
