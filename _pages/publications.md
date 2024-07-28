@@ -107,15 +107,15 @@ Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled
 
 Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 
 
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S ( 2020 ) 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6
+Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 
 
-Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6
+Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023
 
-Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M ( 2023 ) Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6
+Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 
 
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer** ( 2022 ) Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6
+Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022
 
 Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N ( 2022 ) A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4
 
