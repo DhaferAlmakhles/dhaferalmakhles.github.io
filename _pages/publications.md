@@ -79,11 +79,11 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_
 
-R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020
+R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
 
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021 Published in: _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9589645)
 
-Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017 Published in: _2017 13th IEEE International Conference on Control & Automation (ICCA)_ [DOI](https://ieeexplore.ieee.org/document/9589645)
 
 Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020
 
