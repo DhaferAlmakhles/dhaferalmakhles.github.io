@@ -69,15 +69,15 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Conferences**
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6, 2013
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013 Published in: _2013 International Conference on Applied Electronics_
 
-**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014
+**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014 Published in: _2014 European Control Conference (ECC)_ [DOI](https://ieeexplore.ieee.org/document/6862393)
 
-**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012
+**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_
 
 R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020
 
