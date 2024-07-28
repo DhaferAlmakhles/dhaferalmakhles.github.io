@@ -111,56 +111,106 @@ Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S ( 
 
 Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6
 
-Priyadarshi, Neeraj, Bhaskar, MS, Almakhles, Dhafer, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
-Elmorshedy, Mahmoud F, Xu, Wei, Almakhles, Dhafer, Kotb, Kotb M ( 2023 ) Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, Almakhles, Dhafer ( 2022 ) Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6
-Sathik, Jagabar, Siddique, Marif Daula, Almakhles, Dhafer, Sandeep, N ( 2022 ) A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4
-Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Potnuru, Devendra ( 2021 ) A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6
-Wanigasekara, Chathura, Almakhles, Dhafer, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
-Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
-Gupta, Nikita, Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
-Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, Almakhles, Dhafer, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
-Gupta, Nikita, Almakhles, Dhafer, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
-Bhaskar, MS, Patel, Nil, Almakhles, Dhafer, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
-Elmorshedy, Mahmoud F, Almakhles, Dhafer, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, Almakhles, Dhafer, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, Almakhles, DJ ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
-Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, Almakhles, Dhafer, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
-Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, Almakhles, Dhafer, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling , pages 1--5
-Gupta, Nikita, Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
-Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, Almakhles, Dhafer, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
-Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, Almakhles, Dhafer ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
-Marey, Amr, Bhaskar, MS, Almakhles, Dhafer, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for 400V DC Grid System , pages 1--6
-Marey, Amr, Bhaskar, MS, Almakhles, Dhafer, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, Almakhles, Dhafer, Gowaid, IA, Farrag, Mohamed Emad ( 2022 ) Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6
-Al-Makhles, Dhafer, Swain, Akshya K, Patel, Nitish ( 2014 ) Adaptive quantizer for networked control system , pages 1404--1409
-Almakhles, Dhafer, Swain, Akshya, Patel, Nitish ( 2012 ) Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5
-Al-Makhles, Dhafer, Patel, Nitish, Swain, Akshya ( 2013 ) Bit-stream control system: Stability and experimental application , pages 1--6
-Al-Makhles, Dhafer, Patel, Nitish, Swain, Akshya ( 2013 ) Conventional and hybrid bit-Stream in real-time system , pages 1--6
-Al-Makhles, Dhafer, Patel, Nitish, Swain, Akshya ( 2013 ) A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
+
+Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M ( 2023 ) Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6
+
+Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer** ( 2022 ) Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6
+
+Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N ( 2022 ) A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4
+
+Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra ( 2021 ) A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6
+
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
+
+Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
+
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
+
+Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
+
+Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo ( 2020 ) Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52
+
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
+
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
+
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
+
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
+
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer** ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
+
+Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
+
+Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew ( 2020 ) Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5
+
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo ( 2020 ) Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6
+
+Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2020 ) A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6
+
+Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, **Almakhles, Dhafer** ( 2022 ) An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for 400V DC Grid System , pages 1--6
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala ( 2022 ) DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6
+
+Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad ( 2022 ) Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6
+
+**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish ( 2014 ) Adaptive quantizer for networked control system , pages 1404--1409
+
+**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish ( 2012 ) Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) Bit-stream control system: Stability and experimental application , pages 1--6
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) Conventional and hybrid bit-Stream in real-time system , pages 1--6
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6
+
 R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L ( 2020 ) Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems
-Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P ( 2021 ) Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6
-Swain, Akshya, Almakhles, Dhafer, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust control of wireless power transfer system , pages 1060--1065
-Wanigasekara, Chathura, Swain, Akshya, Almakhles, Dhafer, Zhou, Lv ( 2020 ) Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6
-Elmorshedy, Mahmoud F, Bhaskar, MS, Almakhles, Dhafer ( 2023 ) Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6
-Priyadarshi, Neeraj, Bhaskar, MS, Almakhles, Dhafer ( 2023 ) Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6
-Priyadarshi, Neeraj, Bhaskar, MS, Almakhles, Dhafer ( 2023 ) Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6
-Abdelrahim, Mahmoud, Cucuzzella, Michele, Almakhles, Dhafer ( 2023 ) Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines
-Elmorshedy, Mahmoud F, Algadair, Badr S, Almakhles, Dhafer ( 2022 ) Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6
-Marey, Amr, Bhaskar, MS, Almakhles, Dhafer, Sanjeevikumar, P ( 2021 ) Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178
-Almakhles, Dhafer, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick ( 2016 ) Single-bit modulator based controller for capacitive power transfer system , pages 1--6
-Swain, Akshya, Almakhles, Dhafer, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya ( 2016 ) A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6
-Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, Almakhles, Dhafer ( 2019 ) PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135
-Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, Almakhles, Dhafer ( 2019 ) Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, Almakhles, Dhafer, Umashankar, S ( 2020 ) 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6
-Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, Almakhles, Dhafer ( 2023 ) Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6
-Priyadarshi, Neeraj, Bhaskar, MS, Almakhles, Dhafer, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
-Elmorshedy, Mahmoud F, Xu, Wei, Almakhles, Dhafer, Kotb, Kotb M ( 2023 ) Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, Almakhles, Dhafer ( 2022 ) Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6
-Sathik, Jagabar, Siddique, Marif Daula, Almakhles, Dhafer, Sandeep, N ( 2022 ) A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4
-Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Potnuru, Devendra ( 2021 ) A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6
-Wanigasekara, Chathura, Almakhles, Dhafer, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
+
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6
+
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust control of wireless power transfer system , pages 1060--1065
+
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2020 ) Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6
+
+Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6
+
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6
+
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6
+
+Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer** ( 2023 ) Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines
+
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer** ( 2022 ) Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178
+
+**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick ( 2016 ) Single-bit modulator based controller for capacitive power transfer system , pages 1--6
+
+Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya ( 2016 ) A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6
+
+Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer** ( 2019 ) PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135
+
+Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2019 ) Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6
+
+Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer**, Umashankar, S ( 2020 ) 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6
+
+Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6
+
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
+
+Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M ( 2023 ) Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6
+
+Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer** ( 2022 ) Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6
+
+Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N ( 2022 ) A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4
+
+Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra ( 2021 ) A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6
+
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar ( 2019 ) Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6
+
 Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, Almakhles, Dhafer, Kyslan, Karol, Fed'ak, Viliam ( 2019 ) Identification of sludge in water pumping system using support vector machine , pages 403--408
 Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, Almakhles, Dhafer, Holm-Nielsen, Jens Bo ( 2020 ) Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6
 Gupta, Nikita, Bhaskar, Mahajan Sagar, Almakhles, Dhafer, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew ( 2020 ) Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6
