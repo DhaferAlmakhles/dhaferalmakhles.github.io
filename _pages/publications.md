@@ -133,13 +133,13 @@ Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, 
 
 Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 
 
-Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6, 2023
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022
 
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant ( 2021 ) A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021
 
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer** ( 2021 ) Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
 
 Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif ( 2019 ) Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5
 
