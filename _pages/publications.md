@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<u>**Journal Publications**</u>
+**Journal Publications**
 
 **2024**
 
@@ -67,7 +67,7 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 **Almakhles, Dhafer**, Akshya K Swain, and Nitish D Patel. Stability and performance analysis of bit-stream-based feedback control systems. _IEEE Transactions on Industrial Electronics_, 62(7):4319–4327, 2014. [DOI](https://ieeexplore.ieee.org/document/6985657)
 
 
-<u>**Conferences**</u>
+**Conferences**
 
 **Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
 
