@@ -81,17 +81,17 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020
 
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021
 
-Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust control of wireless power transfer system , pages 1060--1065
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017
 
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2020 ) Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020
 
-Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6
+Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 
 
 Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer** ( 2023 ) Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines
 
