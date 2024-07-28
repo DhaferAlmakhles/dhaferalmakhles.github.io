@@ -93,13 +93,13 @@ Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit D
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 
 
-Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer** ( 2023 ) Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines
+Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023
 
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer** ( 2022 ) Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021
 
-Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya ( 2016 ) A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6
+Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya. A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6, 2016
 
 **Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick ( 2016 ) Single-bit modulator based controller for capacitive power transfer system , pages 1--6
 
