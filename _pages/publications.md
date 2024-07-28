@@ -69,7 +69,7 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Conferences**
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing ΔΣ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
 
 **Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013 Published in: _2013 International Conference on Applied Electronics_
 
