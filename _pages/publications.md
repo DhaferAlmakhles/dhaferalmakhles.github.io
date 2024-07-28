@@ -69,17 +69,17 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Conferences**
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing $\Delta$$\Sigma$ modulator , pages 1--6, 2013
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) Bit-stream control system: Stability and experimental application , pages 1--6
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013
 
-**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish ( 2014 ) Adaptive quantizer for networked control system , pages 1404--1409
+**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014
 
-**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish ( 2012 ) Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5
+**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya ( 2013 ) Conventional and hybrid bit-Stream in real-time system , pages 1--6
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013
 
-R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L ( 2020 ) Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems
+R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020
 
 Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6
 
