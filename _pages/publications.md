@@ -133,7 +133,7 @@ Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, 
 
 Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2020 ) 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6
 
-Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge $2 LC_ ${$m$}$-Y $ Converter with Diode-Capacitor Stacking , pages 1--6
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao ( 2023 ) New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6
 
 Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul ( 2022 ) Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6
 
