@@ -101,11 +101,11 @@ Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switch
 
 Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya. A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6, 2016
 
-**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick ( 2016 ) Single-bit modulator based controller for capacitive power transfer system , pages 1--6
+**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick. Single-bit modulator based controller for capacitive power transfer system , pages 1--6, 2016
 
-Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer** ( 2019 ) PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135
+Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019
 
-Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2019 ) Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6
+Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 
 
 Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S ( 2020 ) 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6
 
