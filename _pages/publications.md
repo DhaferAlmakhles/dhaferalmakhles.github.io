@@ -171,33 +171,33 @@ R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L . Design of D
 
 Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021
 
-Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust control of wireless power transfer system , pages 1060--1065
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017
 
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2020 ) Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020
 
-Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6
+Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer** ( 2023 ) Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023
 
-Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer** ( 2023 ) Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines
+Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023
 
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer** ( 2022 ) Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P ( 2021 ) Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021
 
-**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick ( 2016 ) Single-bit modulator based controller for capacitive power transfer system , pages 1--6
+**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick. Single-bit modulator based controller for capacitive power transfer system , pages 1--6, 2016
 
-Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya ( 2016 ) A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6
+Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya. A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6, 2016
 
-Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer** ( 2019 ) PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135
+Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019
 
-Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2019 ) Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6
+Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**. Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019
 
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer**, Umashankar, S ( 2020 ) 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6
+Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer**, Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020
 
-Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6
+Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar ( 2023 ) Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6
 
