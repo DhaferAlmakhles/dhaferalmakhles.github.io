@@ -105,9 +105,9 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 
 Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019 Published in: _Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2019. AISI 2019. Advances in Intelligent Systems and Computing, vol 1058. Springer, Cham._ [DOI](https://doi.org/10.1007/978-3-030-31129-2_12)
 
-Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 
+Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 Published in: 2019 IEEE 13th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG) [DOI](https://ieeexplore.ieee.org/document/8862351)
 
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 
+Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
 
 Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023
 
