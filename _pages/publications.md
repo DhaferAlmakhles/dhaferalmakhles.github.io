@@ -91,11 +91,11 @@ Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150066)
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150066)
 
-Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023
+Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023 Published in: _2023 11th International Conference on Smart Grid (icSmartGrid)_ [DOI](https://ieeexplore.ieee.org/document/10170798)
 
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
 
 Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021
 
