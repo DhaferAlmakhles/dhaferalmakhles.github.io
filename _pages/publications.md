@@ -127,17 +127,17 @@ Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles
 
 Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160526)
 
-Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6, 2020
+Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160821)
 
-Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020
+Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020 Published in: _2020 2nd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9247912)
 
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379588)
 
-Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge Converter with Diode-Capacitor Stacking , pages 1--6, 2023
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge 2LCm−Y Converter with Diode-Capacitor Stacking , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312732)
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 Published in: _2022 IEEE Global Conference on Computing, Power and Communication Technologies (GlobConPT)_ [DOI](https://ieeexplore.ieee.org/document/9938149)
 
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 Published in: _2021 IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC)_ [DOI](https://ieeexplore.ieee.org/document/9688397)
 
 Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
 
