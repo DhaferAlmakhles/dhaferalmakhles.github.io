@@ -109,19 +109,19 @@ Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, M
 
 Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
 
-Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023
+Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9376473)
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023 Published in: _2023 IEEE Kansas Power and Energy Conference (KPEC)_ [DOI](https://ieeexplore.ieee.org/document/10215442)
 
-Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 
+Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 Published in: _2023 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)_ [DOI](https://ieeexplore.ieee.org/document/10174498)
 
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022
+Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090276)
 
-Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N . A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4, 2022 
+Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N . A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4, 2022 Published in: _2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/10080125)
 
-Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra. A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6, 2021 
+Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra. A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6, 2021 Published in: _2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)_ [DOI](https://ieeexplore.ieee.org/document/9573998)
 
-Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of neural network based controllers and $\Delta$$\Sigma$-based PID controllers for networked control systems: a comparative investigation , pages 1--6, 2019
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of Neural Network Based Controllers and ΔΣ-Based PID Controllers for Networked Control Systems: A Comparative Investigation , pages 1--6, 2019 Published in: _2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/8783404)
 
 Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 
 
