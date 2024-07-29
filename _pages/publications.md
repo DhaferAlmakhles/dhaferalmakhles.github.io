@@ -123,9 +123,9 @@ Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dh
 
 Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of Neural Network Based Controllers and ΔΣ-Based PID Controllers for Networked Control Systems: A Comparative Investigation , pages 1--6, 2019 Published in: _2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/8783404)
 
-Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 
+Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 Published in: _2019 International Conference on Electrical Drives & Power Electronics (EDPE)_ [DOI](https://ieeexplore.ieee.org/document/8883934)
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160526)
 
 Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6, 2020
 
