@@ -85,11 +85,11 @@ Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular
 
 Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017 Published in: _2017 13th IEEE International Conference on Control & Automation (ICCA)_ [DOI](https://ieeexplore.ieee.org/document/9589645)
 
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
 
-Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 
+Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312524)
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150066)
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 
 
