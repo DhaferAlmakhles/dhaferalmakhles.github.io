@@ -69,23 +69,10 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Conferences**
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing ΔΣ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
+**2024**
 
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013 Published in: _2013 International Conference on Applied Electronics_
 
-**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014 Published in: _2014 European Control Conference (ECC)_ [DOI](https://ieeexplore.ieee.org/document/6862393)
-
-**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
-
-**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_
-
-R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
-
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021 Published in: _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9589645)
-
-Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017 Published in: _2017 13th IEEE International Conference on Control & Automation (ICCA)_ [DOI](https://ieeexplore.ieee.org/document/9589645)
-
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
+**2023**
 
 Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312524)
 
@@ -95,35 +82,43 @@ Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power
 
 Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023 Published in: _2023 11th International Conference on Smart Grid (icSmartGrid)_ [DOI](https://ieeexplore.ieee.org/document/10170798)
 
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
-
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021 Published in: _2021 3rd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9587632)
-
-Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya. A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6, 2016 Published in: _2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)_ [DOI](https://ieeexplore.ieee.org/document/7846083)
-
-**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick. Single-bit modulator based controller for capacitive power transfer system , pages 1--6, 2016 Published in: _2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)_ [DOI](https://ieeexplore.ieee.org/document/7846084)
-
-Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019 Published in: _Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2019. AISI 2019. Advances in Intelligent Systems and Computing, vol 1058. Springer, Cham._ [DOI](https://doi.org/10.1007/978-3-030-31129-2_12)
-
-Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 Published in: 2019 IEEE 13th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG) [DOI](https://ieeexplore.ieee.org/document/8862351)
-
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
-
 Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9376473)
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023 Published in: _2023 IEEE Kansas Power and Energy Conference (KPEC)_ [DOI](https://ieeexplore.ieee.org/document/10215442)
 
 Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 Published in: _2023 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)_ [DOI](https://ieeexplore.ieee.org/document/10174498)
 
+Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge 2LCm−Y Converter with Diode-Capacitor Stacking , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312732)
+
+**2022**
+
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
+
 Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090276)
 
 Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N . A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4, 2022 Published in: _2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/10080125)
 
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 Published in: _2022 IEEE Global Conference on Computing, Power and Communication Technologies (GlobConPT)_ [DOI](https://ieeexplore.ieee.org/document/9938149)
+
+**2021**
+
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021 Published in: _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9589645)
+
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021 Published in: _2021 3rd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9587632)
+
 Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra. A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6, 2021 Published in: _2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)_ [DOI](https://ieeexplore.ieee.org/document/9573998)
 
-Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of Neural Network Based Controllers and ΔΣ-Based PID Controllers for Networked Control Systems: A Comparative Investigation , pages 1--6, 2019 Published in: _2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/8783404)
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 Published in: _2021 IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC)_ [DOI](https://ieeexplore.ieee.org/document/9688397)
 
-Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 Published in: _2019 International Conference on Electrical Drives & Power Electronics (EDPE)_ [DOI](https://ieeexplore.ieee.org/document/8883934)
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
+
+**2020**
+
+R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
+
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
+
+Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
 
 Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160526)
 
@@ -133,13 +128,27 @@ Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, 
 
 Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379588)
 
-Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge 2LCm−Y Converter with Diode-Capacitor Stacking , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312732)
+**2019**
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 Published in: _2022 IEEE Global Conference on Computing, Power and Communication Technologies (GlobConPT)_ [DOI](https://ieeexplore.ieee.org/document/9938149)
+Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019 Published in: _Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2019. AISI 2019. Advances in Intelligent Systems and Computing, vol 1058. Springer, Cham._ [DOI](https://doi.org/10.1007/978-3-030-31129-2_12)
 
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 Published in: _2021 IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC)_ [DOI](https://ieeexplore.ieee.org/document/9688397)
+Arun, Shankar VK, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** . Investigation for performances comparison PI, adaptive PI, fuzzy speed control induction motor for centrifugal pumping application , pages 1--6, 2019 Published in: 2019 IEEE 13th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG) [DOI](https://ieeexplore.ieee.org/document/8862351)
 
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong, Subramaniyan, Umashankar, Padmanaban, Sanjeevikumar. Performance of Neural Network Based Controllers and ΔΣ-Based PID Controllers for Networked Control Systems: A Comparative Investigation , pages 1--6, 2019 Published in: _2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/8783404)
+
+Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Kyslan, Karol, Fed'ak, Viliam. Identification of sludge in water pumping system using support vector machine , pages 403--408, 2019 Published in: _2019 International Conference on Electrical Drives & Power Electronics (EDPE)_ [DOI](https://ieeexplore.ieee.org/document/8883934)
+
+**2017**
+
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017 Published in: _2017 13th IEEE International Conference on Control & Automation (ICCA)_ [DOI](https://ieeexplore.ieee.org/document/9589645)
+
+**2016**
+
+Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Udaya. A sigma-delta modulator based pi controller for bidirectional inductive power transfer systems , pages 1--6, 2016 Published in: _2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)_ [DOI](https://ieeexplore.ieee.org/document/7846083)
+
+**Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick. Single-bit modulator based controller for capacitive power transfer system , pages 1--6, 2016 Published in: _2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)_ [DOI](https://ieeexplore.ieee.org/document/7846084)
+
+
 
 Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif. Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5, 2019
 
@@ -244,3 +253,15 @@ Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbi
 Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022 
 
 Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022
+
+**2013**
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. A two-loop linear control utilizing ΔΣ modulator , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_. 
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013 Published in: _2013 International Conference on Applied Electronics_
+
+**Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014 Published in: _2014 European Control Conference (ECC)_ [DOI](https://ieeexplore.ieee.org/document/6862393)
+
+**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
+
+**Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_
