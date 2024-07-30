@@ -69,9 +69,6 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Conferences**
 
-**2024**
-
-
 **2023**
 
 Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312524)
@@ -116,29 +113,29 @@ Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N . A Ne
 
 Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul. Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 Published in: _2022 IEEE Global Conference on Computing, Power and Communication Technologies (GlobConPT)_ [DOI](https://ieeexplore.ieee.org/document/9938149)
 
-Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, **Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022
+Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad, **Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090366)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for 400V DC Grid System , pages 1--6, 2022 
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for 400V DC Grid System , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_  [DOI](https://ieeexplore.ieee.org/document/9854607)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854547)
 
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022
+Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968560)
+ 
+Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090276)
 
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022
+Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N. A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4, 2022 Published in: _2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/10080125)
 
-Sathik, Jagabar, Siddique, Marif Daula, **Almakhles, Dhafer**, Sandeep, N. A New Design of Active NPC Converter Topology with Higher Voltage Gain for AC Microgrid Applications , pages 1--4, 2022
+Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
 
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022
+Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090366)
 
-Rizwan, Muhammad, Habib, Zulfiqar, Sarwar, Sohail, Iqbal, Muddesar, Safyan, Muhammad,**Almakhles, Dhafer**. An Exploratory Framework for Intelligent Labelling of Fault Datasets , pages 1--11, 2022
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for 400V DC Grid System , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854607)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for 400V DC Grid System , pages 1--6, 2022
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854547)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbigniew, Mostafa, Hala. DC/DC Converter for Integration of Renewable into DC mu-Grid , pages 1--6, 2022 
+Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854547)
 
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022
-
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul, Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Xu, Wei, Ali, Jagabar M, Islam, Md Rabiul, Finite state model predictive thrust control based on reduced number of predicted voltage vectors for linear induction motor , pages 1--6, 2022 Published in: _2022 IEEE Global Conference on Computing, Power and Communication Technologies (GlobConPT)_ [DOI](https://ieeexplore.ieee.org/document/9938149)
 
 **2021**
 
