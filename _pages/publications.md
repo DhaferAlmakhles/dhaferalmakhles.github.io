@@ -147,17 +147,13 @@ Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dh
 
 Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 Published in: _2021 IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC)_ [DOI](https://ieeexplore.ieee.org/document/9688397)
 
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
+Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 Published in: _2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)_ [DOI](https://ieeexplore.ieee.org/document/9573874)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021
+Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021 Published in: _2021 3rd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9587632)
 
-Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 
+Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 Published in: _2021 IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC)_ [DOI](https://ieeexplore.ieee.org/document/9688397)
 
-Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, Dhafer**, Tangade, Shrikant. A framework for secured dissemination of messages in Internet of Vehicle (IoV) using blockchain approach , pages 1--6, 2021 
-
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021
-
-Dhananjaya, Mudadla, Sathik, Jagabar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Potnuru, Devendra. A New Configuration of Switch and Source Fault-Tolerant Dual-Input Single-Output DC-DC Converter , pages 1--6, 2021
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021 Published in: _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9589645)
 
 **2020**
 
