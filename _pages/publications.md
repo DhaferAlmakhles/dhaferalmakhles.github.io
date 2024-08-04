@@ -157,8 +157,6 @@ Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular
 
 **2020**
 
-R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L. Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
-
 Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160603)
 
 Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer** Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
@@ -179,21 +177,13 @@ Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer**, Umashankar, S. 
 
 Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6,  2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160821) 
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 [DOI]()
+Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160526)
 
-Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020 [DOI]()
+Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020 Published in: _2020 2nd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9247912)
 
-Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 [DOI]()
+Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379588)
 
-Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew. Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5, 2020 [DOI]()
-
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo. Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6, 2020 [DOI]()
-
-Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020 [DOI]()
-
-R Wanigasekara Mudiyanse Ralahamillage, CJ, Swain, Akshya, Zhou, L . Design of Dynamic Fuzzy Q-Learning Controller for Networked Wind Energy Conversion Systems, 2020 [DOI]()
-
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of dynamic fuzzy Q-learning controller for networked wind energy conversion systems , pages 1--6, 2020 [DOI]()
+Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379824)
 
 **2019**
 
@@ -256,5 +246,3 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 **2012**
 
 **Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
-
-**Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012
