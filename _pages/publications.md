@@ -126,25 +126,25 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019. [DOI](https://ieeexplore.ieee.org/document/8944049)
 
-**Almakhles, Dhafer**, Wanigasekara, Chathura, Swain, Akshya, Almustafa, Khaled, Subramaniyan, Umashankar ( 2019 ) Hybrid delta modulator: stability analysis using sliding mode theory , _Systems Science \& Control Engineering_ , Vol - 7 , pages 234--242
+**Almakhles, Dhafer**, Wanigasekara, Chathura, Swain, Akshya, Almustafa, Khaled, Subramaniyan, Umashankar ( 2019 ) Hybrid delta modulator: stability analysis using sliding mode theory , _Systems Science \& Control Engineering_ , Vol - 7 , pages 234--242 [DOI]()
 
-**Almakhles, Dhafer**, Sakthivel, Rathinasamy, Swain, Akshya, Subramaniam, Umashankar, Almustafa, Khaled ( 2019 ) A Generalized One-Bit Control System Using a $$\backslash$Delta$\backslash$Sigma $-Quantizer , _IEEE Access_ , Vol - 7 , pages 117009--117018
+**Almakhles, Dhafer**, Sakthivel, Rathinasamy, Swain, Akshya, Subramaniam, Umashankar, Almustafa, Khaled ( 2019 ) A Generalized One-Bit Control System Using a $$\backslash$Delta$\backslash$Sigma $-Quantizer , _IEEE Access_ , Vol - 7 , pages 117009--117018 [DOI]()
 
-Subramaniam, Umashankar, Bhaskar, Sagar Mahajan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew ( 2019 ) Investigations on EMI mitigation techniques: Intent to reduce grid-tied PV inverter common mode current and voltage , _Energies_ , Vol - 12 , pages 3395
+Subramaniam, Umashankar, Bhaskar, Sagar Mahajan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew ( 2019 ) Investigations on EMI mitigation techniques: Intent to reduce grid-tied PV inverter common mode current and voltage , _Energies_ , Vol - 12 , pages 3395 [DOI]()
 
-Natarajan, Sudhakar, Babu, Thanikanti Sudhakar, Balasubramanian, Karthik, Subramaniam, Umashankar,**Almakhles, Dhafer** ( 2019 ) A state-of-the-art review on conducted electromagnetic interference in non-isolated DC to DC converters , _IEEE Access_ , Vol - 8 , pages 2564--2577
+Natarajan, Sudhakar, Babu, Thanikanti Sudhakar, Balasubramanian, Karthik, Subramaniam, Umashankar,**Almakhles, Dhafer** ( 2019 ) A state-of-the-art review on conducted electromagnetic interference in non-isolated DC to DC converters , _IEEE Access_ , Vol - 8 , pages 2564--2577 [DOI]()
 
-Sakthivel, R, Mohanapriya, Saminathan, **Almakhles, Dhafer** ( 2019 ) Robust tracking and disturbance rejection performance for vehicle dynamics , _IEEE Access_ , Vol - 7 , pages 118598--118607
+Sakthivel, R, Mohanapriya, Saminathan, **Almakhles, Dhafer** ( 2019 ) Robust tracking and disturbance rejection performance for vehicle dynamics , _IEEE Access_ , Vol - 7 , pages 118598--118607 [DOI]()
 
-**Almakhles, Dhafer**, Swain, Akshya, Subramaniam, Umashankar ( 2019 ) Single-bit modulator for wireless power transfer system , _International Journal of Power Electronics and Drive Systems_ , Vol - 10 , pages 1270
+**Almakhles, Dhafer**, Swain, Akshya, Subramaniam, Umashankar ( 2019 ) Single-bit modulator for wireless power transfer system , _International Journal of Power Electronics and Drive Systems_ , Vol - 10 , pages 1270 [DOI]()
 
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2019 ) Passive actuator fault tolerant control for a class of MIMO nonlinear systems with uncertainties , _International Journal of Control_ , Vol - 92 , pages 693--704
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2019 ) Passive actuator fault tolerant control for a class of MIMO nonlinear systems with uncertainties , _International Journal of Control_ , Vol - 92 , pages 693--704 [DOI]()
 
-Subramaniam, Umashankar, Ganesan, Swaminathan, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, **Almakhles, Dhafer** ( 2019 ) Investigations of AC microgrid energy management systems using distributed energy resources and plug-in electric vehicles , _Energies_ , Vol - 12 , pages 2834
+Subramaniam, Umashankar, Ganesan, Swaminathan, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, **Almakhles, Dhafer** ( 2019 ) Investigations of AC microgrid energy management systems using distributed energy resources and plug-in electric vehicles , _Energies_ , Vol - 12 , pages 2834 [DOI]()
 
-Kumar, A Rakesh, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm ( 2019 ) An improved harmonics mitigation scheme for a modular multilevel converter , _IEEE Access_ , Vol - 7 , pages 147244--147255
+Kumar, A Rakesh, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm ( 2019 ) An improved harmonics mitigation scheme for a modular multilevel converter , _IEEE Access_ , Vol - 7 , pages 147244--147255 [DOI]()
 
-CJ, R Wanigasekara Mudiyanse Ralahamillage, **Almakhles, Dhafer**, Swain, AK, Nguang, SK ( 2020 ) Delta-Modulator Based Quantised Output Feedback Controller for Linear Networked Control Systems
+CJ, R Wanigasekara Mudiyanse Ralahamillage, **Almakhles, Dhafer**, Swain, AK, Nguang, SK ( 2020 ) Delta-Modulator Based Quantised Output Feedback Controller for Linear Networked Control Systems [DOI]()
 
 **2018**
 
