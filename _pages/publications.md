@@ -30,43 +30,43 @@ Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback
 
 Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Dynamic Periodic Event-Triggered Control for Linear Systems Based on Partial State Information [DOI]()
 
-Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Output-Based Dynamic Periodic Event-Triggered Control with Application to the Tunnel Diode System , Journal of Sensor and Actuator Networks , Vol - 12 , pages 66 [DOI]()
+Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Output-Based Dynamic Periodic Event-Triggered Control with Application to the Tunnel Diode System , _Journal of Sensor and Actuator Networks_ , Vol - 12 , pages 66 [DOI](https://doi.org/10.3390/jsan12050066)
 
-Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Output Feedback Stabilization of Doubly Fed Induction Generator Wind Turbines under Event-Triggered Implementations , Journal of Sensor and Actuator Networks , Vol - 12 , pages 64 [DOI]()
+Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Output Feedback Stabilization of Doubly Fed Induction Generator Wind Turbines under Event-Triggered Implementations , _Journal of Sensor and Actuator Networks_ , Vol - 12 , pages 64 [DOI](https://doi.org/10.3390/jsan12050064)
 
-Mohamed Ali, Jagabar Sathik, **Almakhles, Dhafer** ( 2023 ) A Compact Five-Level Single-Stage Boost Inverter , Energies , Vol - 16 , pages 1181 [DOI]()
+Mohamed Ali, Jagabar Sathik, **Almakhles, Dhafer** ( 2023 ) A Compact Five-Level Single-Stage Boost Inverter , Energies , Vol - 16 , pages 1181 [DOI](https://doi.org/10.3390/en16031181)
 
-Sathik, M Jagabar, Elmorshedy, Mahmoud F, **Almakhles, Dhafer** ( 2023 ) A New Boost topology Seven-Level Inverter of High Voltage Gain Ability and Continuous Input Current with MPPT for PV Grid Integration , IEEE Access [DOI]()
+Sathik, M Jagabar, Elmorshedy, Mahmoud F, **Almakhles, Dhafer** ( 2023 ) A New Boost topology Seven-Level Inverter of High Voltage Gain Ability and Continuous Input Current with MPPT for PV Grid Integration , _IEEE Access_ [DOI](https://ieeexplore.ieee.org/document/10345534/)
 
-Koothu Kesavan, Prabhakaran, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2023 ) Design and performance analysis of cascaded pseudo derivative feedback plus pseudo derivative feedforward controller for PMSM drive , COMPEL-The international journal for computation and mathematics in electrical and electronic engineering , Vol - 42 , pages 1867--1891 [DOI]()
+Koothu Kesavan, Prabhakaran, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2023 ) Design and performance analysis of cascaded pseudo derivative feedback plus pseudo derivative feedforward controller for PMSM drive , _COMPEL-The international journal for computation and mathematics in electrical and electronic engineering_ , Vol - 42 , pages 1867--1891 [DOI](https://doi.org/10.1108/COMPEL-04-2023-0145)
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Abdelrahim, Mahmoud ( 2023 ) Hybrid Dynamical Modeling and Control of Permanent Magnet Synchronous Motors: Hardware-in-the-Loop Verification , Processes , Vol - 11 , pages 2370 [DOI]()
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, Abdelrahim, Mahmoud ( 2023 ) Hybrid Dynamical Modeling and Control of Permanent Magnet Synchronous Motors: Hardware-in-the-Loop Verification , _Processes_ , Vol - 11 , pages 2370 [DOI](https://doi.org/10.3390/pr11082370)
 
-Sathik, Jagabar, Elmorshedy, Mahmoud F, **Almakhles, Dhafer** ( 2023 ) New Boost Type Seven-Level Inverter with High Voltage Gain Ability and Continuous Input Current , Authorea Preprints [DOI]()
+Sathik, Jagabar, Elmorshedy, Mahmoud F, **Almakhles, Dhafer** ( 2023 ) New Boost Type Seven-Level Inverter with High Voltage Gain Ability and Continuous Input Current , _Authorea Preprints_ [DOI](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22810370.v1)
 
-Elmorshedy, Mahmoud, Bakeer, Abualkasim, **Almakhles, Dhafer** ( 2023 ) Fixed-Switching Frequency Finite-State Model Predictive Thrust and Primary Flux Linkage Control for LIM , Journal of Energy and Power Technology , Vol - 5 , pages 1--13 [DOI]()
+Elmorshedy, Mahmoud, Bakeer, Abualkasim, **Almakhles, Dhafer** ( 2023 ) Fixed-Switching Frequency Finite-State Model Predictive Thrust and Primary Flux Linkage Control for LIM , _Journal of Energy and Power Technology_ , Vol - 5 , pages 1--13 [DOI]()
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, El-Sousy, Fayez FM ( 2023 ) Modified primary flux linkage for enhancing the linear induction motor performance based on sliding mode control and model predictive flux control , IEEE Access , Vol - 11 , pages 26184--26198 [DOI]()
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, El-Sousy, Fayez FM ( 2023 ) Modified primary flux linkage for enhancing the linear induction motor performance based on sliding mode control and model predictive flux control , _IEEE Access_ , Vol - 11 , pages 26184--26198 [DOI](https://ieeexplore.ieee.org/document/10068513/)
 
-Tharanidharan, Vasudevan, Sakthivel, Rathinasamy, Shanmugam, Harshavarthini, **Almakhles, Dhafer** ( 2023 ) Decentralized observer-based controller design for large-scale systems with quantized measurements and actuator faults , Asian Journal of Control , Vol - 25 , pages 190--200 [DOI]()
+Tharanidharan, Vasudevan, Sakthivel, Rathinasamy, Shanmugam, Harshavarthini, **Almakhles, Dhafer** ( 2023 ) Decentralized observer-based controller design for large-scale systems with quantized measurements and actuator faults , _Asian Journal of Control_ , Vol - 25 , pages 190--200 [DOI](https://doi.org/10.1002/asjc.2766)
 
-Saha, Arindita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2023 ) Employment of renewable based sources in amalgamated frequency-voltage control restructured system with TSA trained IPD (1+ I) controller , Renewable Energy , pages 119879 [DOI]()
+Saha, Arindita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2023 ) Employment of renewable based sources in amalgamated frequency-voltage control restructured system with TSA trained IPD (1+ I) controller , _Renewable Energy_ , pages 119879 [DOI](https://doi.org/10.1016/j.renene.2023.119879)
 
-Sheeja, V, Kalpana, R, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2023 ) Control of Converter for a Solar PV-BESS Powered Telecom Load with Real, Reactive and Harmonic Power Exchange with Grid , _IEEE Access_ [DOI]()
+Sheeja, V, Kalpana, R, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2023 ) Control of Converter for a Solar PV-BESS Powered Telecom Load with Real, Reactive and Harmonic Power Exchange with Grid , _IEEE Access_ [DOI](https://ieeexplore.ieee.org/document/10347198/)
 
-Vijayakumar, Muthusamy, Saklhivel, Rathinasamy, **Almakhles, Dhafer**, Anthoni, Selvaraj Marshal ( 2023 ) Tracking Control Design for Markov Jump Systems With Time-varying Delay and External Disturbances , _International Journal of Control, Automation and Systems_ , Vol - 21 , pages 2210--2222 [DOI]()
+Vijayakumar, Muthusamy, Saklhivel, Rathinasamy, **Almakhles, Dhafer**, Anthoni, Selvaraj Marshal ( 2023 ) Tracking Control Design for Markov Jump Systems With Time-varying Delay and External Disturbances , _International Journal of Control, Automation and Systems_ , Vol - 21 , pages 2210--2222 [DOI](https://doi.org/10.1007/s12555-021-0884-4)
 
-Vijayakumar, Muthusamy, Sakthivel, Rathinasamy, **Almakhles, Dhafer**, Anthoni, Selvaraj Marshal ( 2023 ) Observer based tracking control for fuzzy control systems with time delay and external disturbances , _International Journal of Control, Automation and Systems_ , Vol - 21 , pages 2760--2769 [DOI]()
+Vijayakumar, Muthusamy, Sakthivel, Rathinasamy, **Almakhles, Dhafer**, Anthoni, Selvaraj Marshal ( 2023 ) Observer based tracking control for fuzzy control systems with time delay and external disturbances , _International Journal of Control, Automation and Systems_ , Vol - 21 , pages 2760--2769 [DOI](https://doi.org/10.1007/s12555-022-0302-6)
 
-Elmorshedy, Mahmoud F, Subramaniam, Umashankar, Mohamed Ali, Jagabar Sathik, **Almakhles, Dhafer** ( 2023 ) Energy Management of Hybrid DC Microgrid with Different Levels of DC Bus Voltage for Various Load Types , _Energies_ , Vol - 16 , pages 5438 [DOI]()
+Elmorshedy, Mahmoud F, Subramaniam, Umashankar, Mohamed Ali, Jagabar Sathik, **Almakhles, Dhafer** ( 2023 ) Energy Management of Hybrid DC Microgrid with Different Levels of DC Bus Voltage for Various Load Types , _Energies_ , Vol - 16 , pages 5438 [DOI](https://doi.org/10.3390/en16145438)
 
-Dabour, Sherif M, Mostafa, Ramadan Mahmoud, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2023 ) Modeling and Control of a Voltage-Lift Cell Split-Source Inverter with MPPT for Photovoltaic Systems , _IEEE Access_ [DOI]()
+Dabour, Sherif M, Mostafa, Ramadan Mahmoud, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2023 ) Modeling and Control of a Voltage-Lift Cell Split-Source Inverter with MPPT for Photovoltaic Systems , _IEEE Access_ [DOI](https://ieeexplore.ieee.org/document/10138166)
 
-Yang, Tianli, Cang, Li Shan, Iqbal, Muddesar, **Almakhles, Dhafer** ( 2023 ) Attack Risk Analysis in Data Anonymization in Internet of Things , _IEEE Transactions on Computational Social Systems_ [DOI]()
+Yang, Tianli, Cang, Li Shan, Iqbal, Muddesar, **Almakhles, Dhafer** ( 2023 ) Attack Risk Analysis in Data Anonymization in Internet of Things , _IEEE Transactions on Computational Social Systems_ [DOI](https://ieeexplore.ieee.org/document/10049771)
 
-Elmorshedy, Mahmoud F, Selvam, Sivakumar, Mahajan, Sagar Bhaskar, **Almakhles, Dhafer** ( 2023 ) Investigation of high-gain two-tier converter with PI and super-twisting sliding mode control , _ISA transactions_ , Vol - 138 , pages 628--638 [DOI]()
+Elmorshedy, Mahmoud F, Selvam, Sivakumar, Mahajan, Sagar Bhaskar, **Almakhles, Dhafer** ( 2023 ) Investigation of high-gain two-tier converter with PI and super-twisting sliding mode control , _ISA transactions_ , Vol - 138 , pages 628--638 [DOI](https://doi.org/10.1016/j.isatra.2023.03.020)
 
-Guerrero, Josep M, Sathik M, Jagabar, Shalchi Alisha, Rasoul, **Almakhles, Dhafer** ( 2023 ) Guest editorial: Highly efficient and reliable power converters for microgrid applications , _Frontiers in Energy Research_ , Vol - 10 , pages 1101342 [DOI]()
+Guerrero, Josep M, Sathik M, Jagabar, Shalchi Alisha, Rasoul, **Almakhles, Dhafer** ( 2023 ) Guest editorial: Highly efficient and reliable power converters for microgrid applications , _Frontiers in Energy Research_ , Vol - 10 , pages 1101342 [DOI]( https://doi.org/10.3389/fenrg.2022.1101342)
 
 Sakthivel, R, Satheesh, T, Harshavarthini, S, **Almakhles, Dhafer** ( 2023 ) State estimation-based robust control design for periodic piecewise systems with time-varying delays , _International Journal of Systems Science_ , Vol - 54 , pages 405--422 [DOI](https://doi.org/10.1080/00207721.2022.2123264)
 
