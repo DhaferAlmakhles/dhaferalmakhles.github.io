@@ -128,9 +128,23 @@ S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time c
 
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019. [DOI](https://ieeexplore.ieee.org/document/8944049)
 
+**2018**
+
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2018 ) Stabilisation of discrete-time polynomial fuzzy systems via a polynomial lyapunov approach , _International Journal of Systems Science_ , Vol - 49 , pages 557--566 [DOI](https://doi.org/10.1080/00207721.2017.1407006)
+
+**2017**
+
+**Almakhles, Dhafer**, Swain, Akshya K, Nasiri, Alireza ( 2017 ) The dynamic behaviour of data-driven Δ-M and ΔΣ-M in sliding mode control , _International Journal of Control_ , Vol - 90 , pages 2406--2414 [DOI](https://doi.org/10.1080/00207179.2016.1250160)
+
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2017 ) Reducing Conservatism in an H_inf Robust State-Feedback Control Design of T-S Fuzzy Systems: A Nonmonotonic Approach , _IEEE Transactions on Fuzzy Systems_ , Vol - 26 , pages 386--390 [DOI](https://ieeexplore.ieee.org/document/7809084)
+
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust H∞ output feedback control of bidirectional inductive power transfer systems , _Archives of Control Sciences_ , Vol - 27 [DOI](https://journals.pan.pl/dlibra/publication/120046/edition/104468/content)
+
 **2016**
 
 **Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. _IEEE Transactions on Control Systems Technology_,25(3):1084–1091, 2016. [DOI](https://ieeexplore.ieee.org/document/7492609)
+
+Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, **Almakhles, Dhafer** ( 2016 ) Robust output feedback controller design of discrete-time Takagi--Sugeno fuzzy systems: a non-monotonic Lyapunov approach , _IET Control Theory & Applications_ , Vol - 10 , pages 545--553 [DOI](https://doi.org/10.1049/iet-cta.2015.0750)
 
 **2014**
 
@@ -350,22 +364,6 @@ Sakthivel, R, Mohanapriya, Saminathan, Almakhles, Dhafer J ( 2019 ) Robust track
 Almakhles, Dhafer, Swain, Akshya, Subramaniam, Umashankar ( 2019 ) Single-bit modulator for wireless power transfer system , International Journal of Power Electronics and Drive Systems , Vol - 10 , pages 1270
 Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, Almakhles, Dhafer ( 2019 ) Passive actuator fault tolerant control for a class of MIMO nonlinear systems with uncertainties , International Journal of Control , Vol - 92 , pages 693--704
 *********************************************************************************************
-**2018**
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, Almakhles, Dhafer ( 2018 ) Stabilisation of discrete-time polynomial fuzzy systems via a polynomial lyapunov approach , International Journal of Systems Science , Vol - 49 , pages 557--566
-******************************************************************
-**2016**
-Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, J. Almakhles, Dhafer ( 2016 ) Robust output feedback controller design of discrete-time Takagi--Sugeno fuzzy systems: a non-monotonic Lyapunov approach , IET Control Theory & Applications , Vol - 10 , pages 545--553
-Almakhles, Dhafer, Swain, Akshya K, Nasiri, Alireza, Patel, Nitish ( 2016 ) An adaptive two-level quantizer for networked control systems , IEEE Transactions on Control Systems Technology , Vol - 25 , pages 1084--1091
-
-******************************************************************
-**2017**
-Almakhles, Dhafer, Swain, Akshya K, Nasiri, Alireza ( 2017 ) The dynamic behaviour of data-driven $\Delta$-M and $\Delta$$\Sigma$-M in sliding mode control , International Journal of Control , Vol - 90 , pages 2406--2414
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, Almakhles, Dhafer J ( 2017 ) Reducing Conservatism in an H_inf Robust State-Feedback Control Design of T-S Fuzzy Systems: A Nonmonotonic Approach , IEEE Transactions on Fuzzy Systems , Vol - 26 , pages 386--390
-Swain, Akshya, Almakhles, Dhafer, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust H∞ output feedback control of bidirectional inductive power transfer systems , Archives of Control Sciences , Vol - 27
-******************************************************************
-**2014**
-Almakhles, Dhafer J, Swain, Akshya K, Patel, Nitish D ( 2014 ) Stability and performance analysis of bit-stream-based feedback control systems , IEEE Transactions on Industrial Electronics , Vol - 62 , pages 4319--4327
-
 
 **Conferences**
 
