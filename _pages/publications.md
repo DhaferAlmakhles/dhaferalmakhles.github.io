@@ -18,6 +18,8 @@ Gowtham, N, Prema, V, Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** 
 
 Saha, Arindita, Dash, Puja, Bhaskar, MS, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2024 ) Evaluation of renewable and energy storage system-based interlinked power system with artificial rabbit optimized PI (FOPD) cascaded controller , Ain Shams Engineering Journal , Vol - 15 , pages 102389 [DOI]()
 
+*********************************************************************************************
+
 **2023**
 
 Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. _IEEE Transactions on Industrial Electronics_, 2023. [DOI](https://ieeexplore.ieee.org/document/10083078) 
@@ -92,6 +94,8 @@ Navamani, Divya J, Sathik, Jagabar M, Lavanya, A, **Almakhles, Dhafer**, Ali, Zi
 
 Savari, George Fernandez, Sathik, M Jagabar, Raman, L Anantha, El-Shahat, Adel, Hasanien, Hany M, **Almakhles, Dhafer**, Aleem, Shady HE Abdel, Omar, Ahmed I ( 2023 ) Assessment of charging technologies, infrastructure and charging station recommendation schemes of electric vehicles: A review , _Ain Shams Engineering Journal_ , Vol - 14 , pages 101938 [DOI](https://doi.org/10.1016/j.asej.2022.101938)
 
+*********************************************************************************************
+
 **2022**
 
 **Almakhles, Dhafer** , ChathuraWanigasekara, and Akshya Swain. Delta modulator based quantised state-feedback control of networked linear systems. _IEEE Access_, 10:48865–48874, 2022. [DOI](https://ieeexplore.ieee.org/document/9767834)
@@ -150,6 +154,8 @@ Pandurengan, Gopinath Narayanan, Krishnasamy, Vijayakumar, Sathik, Jagabar, **Al
 
 Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Gupta, Nikita, Subramaniam, Umashankar ( 2022 ) Double-switch switched-inductor converter with minimal switch voltage stress for renewable energy conversion , _Computers & Electrical Engineering_ , Vol - 98 , pages 107682 [DOI](https://doi.org/10.1016/j.compeleceng.2022.107682)
 
+*********************************************************************************************
+
 **2021**
 
 ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021. [DOI](https://ieeexplore.ieee.org/document/9609574)
@@ -201,6 +207,7 @@ Jayaramu, Mohana Lakshmi, Suresh, HN, Bhaskar, Mahajan Sagar, Almakhles, Dhafer,
 Sathik, Jagabar, Aleem, Shady HE Abdel, Shalchi Alishah, Rasoul, Almakhles, Dhafer, Bertilsson, Kent, Bhaskar, Mahajan Sagar, Fernandez Savier, George, Dhandapani, Karthikeyan ( 2021 ) A multilevel inverter topology using diode half-bridge circuit with reduced power component , Energies , Vol - 14 , pages 7249
 Priyadarshi, Neeraj, Azam, Farooque, Solanki, Sandeep Singh, Sharma, Amarjeet Kumar, Bhoi, Akash Kumar, Almakhles, Dhafer ( 2021 ) A bio-inspired chicken swarm optimization-based fuel cell system for electric vehicle applications , Bio-inspired neurocomputing , pages 297--308
 Almakhles, Dhafer J ( 2021 ) A new seven level boost-type ANPC inverter topology for photovoltaic applications , Scientific Reports , Vol - 11 , pages 22487
+
 *********************************************************************************************
 
 **2020**
@@ -293,6 +300,8 @@ Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Blaabj
 
 Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Ibrahim, SA Ahamed, Alyami, Saeed, Selvam, Sivakumar, Bhaskar, Mahajan Sagar ( 2020 ) A generalized multilevel inverter topology with reduction of total standing voltage , _IEEE Access_ , Vol - 8 , pages 168941--168950 [DOI](https://ieeexplore.ieee.org/document/9187204)
 
+*********************************************************************************************
+
 **2019**
 
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019. [DOI](https://ieeexplore.ieee.org/document/8944049)
@@ -315,9 +324,13 @@ Subramaniam, Umashankar, Ganesan, Swaminathan, Bhaskar, Mahajan Sagar, Padmanaba
 
 Kumar, A Rakesh, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm ( 2019 ) An improved harmonics mitigation scheme for a modular multilevel converter , _IEEE Access_ , Vol - 7 , pages 147244--147255 [DOI](https://ieeexplore.ieee.org/document/8864969)
 
+*********************************************************************************************
+
 **2018**
 
 Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2018 ) Stabilisation of discrete-time polynomial fuzzy systems via a polynomial lyapunov approach , _International Journal of Systems Science_ , Vol - 49 , pages 557--566 [DOI](https://doi.org/10.1080/00207721.2017.1407006)
+
+*********************************************************************************************
 
 **2017**
 
@@ -327,11 +340,15 @@ Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2017
 
 Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust H∞ output feedback control of bidirectional inductive power transfer systems , _Archives of Control Sciences_ , Vol - 27 [DOI](https://journals.pan.pl/dlibra/publication/120046/edition/104468/content)
 
+*********************************************************************************************
+
 **2016**
 
 **Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. _IEEE Transactions on Control Systems Technology_,25(3):1084–1091, 2016. [DOI](https://ieeexplore.ieee.org/document/7492609)
 
 Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, **Almakhles, Dhafer** ( 2016 ) Robust output feedback controller design of discrete-time Takagi--Sugeno fuzzy systems: a non-monotonic Lyapunov approach , _IET Control Theory & Applications_ , Vol - 10 , pages 545--553 [DOI](https://doi.org/10.1049/iet-cta.2015.0750)
+
+*********************************************************************************************
 
 **2014**
 
@@ -367,6 +384,8 @@ Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flu
 
 Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312524)
 
+*********************************************************************************************
+
 **2022**
 
 Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
@@ -391,6 +410,8 @@ Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive
 
 Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854547)
 
+*********************************************************************************************
+
 **2021**
 
 Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P. Smart Vehicular System: Demand, Curiosity, Challenges, And Power Electronics Skills , pages 1--6, 2021 Published in: _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9589645)
@@ -404,6 +425,8 @@ Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, 
 Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 Published in: _2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)_ [DOI](https://ieeexplore.ieee.org/document/9573874)
 
 Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021 Published in: _2021 3rd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9587632)
+
+*********************************************************************************************
 
 **2020**
 
@@ -433,6 +456,8 @@ Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **
 
 Siddique, Marif Daula, Sathik, M Jagabar, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. A reduced switch count boost inverter (RSC-BI) topology with triple voltage gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379824)
 
+*********************************************************************************************
+
 **2019**
 
 Kamal, Nashwa Ahmad, Azar, Ahmad Taher, Elbasuony, Ghada Said, Almustafa, Khaled Mohamad, **Almakhles, Dhafer**. PSO-based adaptive perturb and observe MPPT technique for photovoltaic systems , pages 125--135, 2019 Published in: _Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2019. AISI 2019. Advances in Intelligent Systems and Computing, vol 1058. Springer, Cham._ [DOI](https://doi.org/10.1007/978-3-030-31129-2_12)
@@ -445,9 +470,13 @@ Subramaniam, Umashankar, Dutta, Nabanita, Padmanaban, Sanjeevikumar, **Almakhles
 
 Sudabattula, Suresh Kumar, Suresh, Velamuri, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Iqbal, Atif. Optimal allocation of multiple distributed generators and shunt capacitors in distribution system using flower pollination algorithm , pages 1--5, 2019 Published in: _2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/8783417)
 
+*********************************************************************************************
+
 **2017**
 
 Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust control of wireless power transfer system , pages 1060--1065, 2017 Published in: _2017 13th IEEE International Conference on Control & Automation (ICCA)_ [DOI](https://ieeexplore.ieee.org/document/9589645)
+
+*********************************************************************************************
 
 **2016**
 
@@ -455,9 +484,13 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 
 **Almakhles, Dhafer**, Pyle, Nathan, Mehrabi, Hossein, Swain, Akshya, Hu, A Patrick. Single-bit modulator based controller for capacitive power transfer system , pages 1--6, 2016 Published in: _2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)_ [DOI](https://ieeexplore.ieee.org/document/7846084)
 
+*********************************************************************************************
+
 **2014**
 
 **Almakhles, Dhafer**, Swain, Akshya K, Patel, Nitish. Adaptive quantizer for networked control system , pages 1404--1409, 2014 Published in: _2014 European Control Conference (ECC)_ [DOI](https://ieeexplore.ieee.org/document/6862393)
+
+*********************************************************************************************
 
 **2013**
 
@@ -466,6 +499,8 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 **Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Bit-stream control system: Stability and experimental application , pages 1--6, 2013 Published in: _2013 International Conference on Applied Electronics_
 
 **Almakhles, Dhafer**, Patel, Nitish, Swain, Akshya. Conventional and hybrid bit-Stream in real-time system , pages 1--6, 2013 Published in: _2013 Proceedings of the 11th Workshop on Intelligent Solutions in Embedded Systems (WISES)_ 
+
+*********************************************************************************************
 
 **2012**
 
