@@ -392,12 +392,6 @@ Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P, Leonowicz, Zbi
 
 Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968560)
  
-Shafqat, Zunaira, Iqbal, Muddesar, Bangyal, Waqas Haider, **Almakhles, Dhafer**. Opinion Mining of Politics and Inflation using Roman Urdu Dataset , pages 1--6, 2022 Published in: _2022 Human-Centered Cognitive Systems (HCCS)_ [DOI](https://ieeexplore.ieee.org/document/10090276)
-
-Elmorshedy, Mahmoud F, Algadair, Badr S, **Almakhles, Dhafer**. Model predictive control of two-tier converter for maximum power extraction from photovoltaic system , pages 1--6, 2022 Published in: _IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9968986)
-
-Elmorshedy, Mahmoud F, Ali, Mosaad M, Dabour, Sherif M, **Almakhles, Dhafer**, Gowaid, IA, Farrag, Mohamed Emad. Improved Responses of Grid Connected Quadratic Boost Inverter Based on Super-Twisting Sliding Mode Control , pages 1--6, 2022 Published in: _2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9854547)
-
 *********************************************************************************************
 
 **2021**
