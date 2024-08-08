@@ -364,8 +364,6 @@ Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power
 
 Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023 Published in: _2023 11th International Conference on Smart Grid (icSmartGrid)_ [DOI](https://ieeexplore.ieee.org/document/10170798)
 
-Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/9376473)
-
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023 Published in: _2023 IEEE Kansas Power and Energy Conference (KPEC)_ [DOI](https://ieeexplore.ieee.org/document/10215442)
 
 Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 Published in: _2023 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)_ [DOI](https://ieeexplore.ieee.org/document/10174498)
@@ -373,12 +371,6 @@ Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flu
 Bhaskar, MS, Patel, Nil, **Almakhles, Dhafer**, Elmorshedy, Mahmoud, Vemparala, Seshagirirao. New Four Members of XY Family: Exploring Cutting-Edge 2LCm−Y Converter with Diode-Capacitor Stacking , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312732)
 
 Bhaskar, MS, Vemparala, Seshagirirao, Elmorshedy, Mahmoud, **Almakhles, Dhafer**. Fueling the Future: Introducing a New Hybrid Switched-Reactive Converter for High Voltage Gain in Fuel-Cell Vehicles , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312519)
-
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**, Selvam, Sivakumar. Sliding-Mode Controller Employed Hybrid PV-Wind-Battery Microgrid , pages 1--6, 2023 Published in: _2023 IEEE Kansas Power and Energy Conference (KPEC)_ [DOI](https://ieeexplore.ieee.org/document/10215442)
-
-Elmorshedy, Mahmoud F, Xu, Wei, **Almakhles, Dhafer**, Kotb, Kotb M. Reduced flux ripples for linear induction machines based-two voltage vectors finite state model predictive control with MTPA , pages 1--6, 2023 Published in: _2023 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)_ [DOI](https://ieeexplore.ieee.org/document/10174498)
-
-Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for Linear Induction Motors Based on Finite-Set Predictive Control with Lower Number of Switching Voltage Vectors , pages 1--6, 2023 Published in: _IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society_ [DOI](https://ieeexplore.ieee.org/document/10312524)
 
 *********************************************************************************************
 
