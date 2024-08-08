@@ -14,9 +14,9 @@ author_profile: true
 
 **Almakhles, Dhafer** and Mahmoud Abdelrahim. Asynchronous dynamic quantization for nonlinear systems with one-bit data transmission. _Systems & Control Letters_, 181:105630, 2024. [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167691123001779?via%3Dihub)
 
-Gowtham, N, Prema, V, Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** ( 2024 ) A Power Aware Long Short-Term Memory with Deep Brief Network Based Microgrid Framework to Maintain Sustainable Energy Management and Load Balancing , Distributed Generation \& Alternative Energy Journal , pages 1--26 [DOI]()
+Gowtham, N, Prema, V, Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer** ( 2024 ) A Power Aware Long Short-Term Memory with Deep Brief Network Based Microgrid Framework to Maintain Sustainable Energy Management and Load Balancing , Distributed Generation \& Alternative Energy Journal , pages 1--26 [DOI](https://doi.org/10.13052/dgaej2156-3306.3911)
 
-Saha, Arindita, Dash, Puja, Bhaskar, MS, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2024 ) Evaluation of renewable and energy storage system-based interlinked power system with artificial rabbit optimized PI (FOPD) cascaded controller , Ain Shams Engineering Journal , Vol - 15 , pages 102389 [DOI]()
+Saha, Arindita, Dash, Puja, Bhaskar, MS, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2024 ) Evaluation of renewable and energy storage system-based interlinked power system with artificial rabbit optimized PI (FOPD) cascaded controller , Ain Shams Engineering Journal , Vol - 15 , pages 102389 [DOI](https://doi.org/10.1016/j.asej.2023.102389)
 
 *********************************************************************************************
 
