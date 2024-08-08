@@ -160,51 +160,49 @@ Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Gupta,
 
 ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021. [DOI](https://ieeexplore.ieee.org/document/9609574)
 
-Navamani, J Divya, Geetha, A, **Almakhles, Dhafer**, Lavanya, A, Ali, Jagabar Sathik Mohamed ( 2021 ) Modified LUO High Gain DC-DC Converter With Minimal Capacitor Stress for Electric Vehicle Application , IEEE Access , Vol - 9 , pages 122335--122350
+Navamani, J Divya, Geetha, A, **Almakhles, Dhafer**, Lavanya, A, Ali, Jagabar Sathik Mohamed ( 2021 ) Modified LUO High Gain DC-DC Converter With Minimal Capacitor Stress for Electric Vehicle Application , _IEEE Access_ , Vol - 9 , pages 122335--122350 [DOI](https://ieeexplore.ieee.org/document/9526557)
 
-Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Gowtham, N, Rao, K Uma ( 2021 ) Critical review of data, models and performance metrics for wind and solar power forecast , IEEE Access , Vol - 10 , pages 667--688
+Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Gowtham, N, Rao, K Uma ( 2021 ) Critical review of data, models and performance metrics for wind and solar power forecast , _IEEE Access_ , Vol - 10 , pages 667--688 [DOI](https://ieeexplore.ieee.org/document/9658498)
 
-Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , BioMed Research International , Vol - 2021 , pages 1--17
+Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
 
-Sathik, M Jagabar, **Almakhles, Dhafer**, Sandeep, N, Siddique, Marif Daula ( 2021 ) Experimental validation of new self-voltage balanced 9L-ANPC inverter for photovoltaic applications , Scientific reports , Vol - 11 , pages 5067
+Sathik, M Jagabar, **Almakhles, Dhafer**, Sandeep, N, Siddique, Marif Daula ( 2021 ) Experimental validation of new self-voltage balanced 9L-ANPC inverter for photovoltaic applications , _Scientific reports_ , Vol - 11 , pages 5067 [DOI](https://doi.org/10.1038/s41598-021-84531-z)
 
-Sakthivel, R, Harshavarthini, S, **Almakhles, Dhafer**, Kavikumar, R ( 2021 ) Design of uncertainty and disturbance estimator based tracking control for fuzzy switched systems , IET Control Theory \& Applications , Vol - 15 , pages 1804--1817
+Sakthivel, R, Harshavarthini, S, **Almakhles, Dhafer**, Kavikumar, R ( 2021 ) Design of uncertainty and disturbance estimator based tracking control for fuzzy switched systems , _IET Control Theory \& Applications_ , Vol - 15 , pages 1804--1817 [DOI]( https://doi.org/10.1049/cth2.12135)
 
-Ali, Jagabar Sathik Mohamed, Hota, Arpan, Sandeep, N, **Almakhles, Dhafer** ( 2021 ) A single-stage common ground-type transformerless five-level inverter topology , IEEE Journal of Emerging and Selected Topics in Power Electronics , Vol - 10 , pages 837--845
-Meena, P, Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2021 ) Bi-Furcated Stator Winding Configuration in Three-Phase Induction Generators for Wind Power Generation , IEEE Access , Vol - 9 , pages 153188--153198
+Ali, Jagabar Sathik Mohamed, Hota, Arpan, Sandeep, N, **Almakhles, Dhafer** ( 2021 ) A single-stage common ground-type transformerless five-level inverter topology , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ , Vol - 10 , pages 837--845 [DOI](https://ieeexplore.ieee.org/document/9475445)
 
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2021 ) Design of delta--sigma-based PID controller for networked wind energy conversion systems , IEEE Transactions on Industry Applications , Vol - 58 , pages 879--889
+Meena, P, Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2021 ) Bi-Furcated Stator Winding Configuration in Three-Phase Induction Generators for Wind Power Generation , _IEEE Access_ , Vol - 9 , pages 153188--153198 [DOI](https://doi.org/10.1109/ACCESS.2021.3127526)
 
-**Almakhles, Dhafer** ( 2021 ) A new seven level boost-type ANPC inverter topology for photovoltaic applications , Scientific Reports , Vol - 11 , pages 22487
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2021 ) Design of delta--sigma-based PID controller for networked wind energy conversion systems , _IEEE Transactions on Industry Applications_ , Vol - 58 , pages 879--889 [DOI](https://ieeexplore.ieee.org/document/9609574)
 
-Zeng, Xie, Hammid, Ali Thaeer, Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2021 ) A grasshopper optimization algorithm for optimal short-term hydrothermal scheduling , Energy Reports , Vol - 7 , pages 314--323
+**Almakhles, Dhafer** ( 2021 ) A new seven level boost-type ANPC inverter topology for photovoltaic applications , _Scientific Reports_ , Vol - 11 , pages 22487 [DOI](https://doi.org/10.1038/s41598-021-01669-6)
 
-Nasralla, Moustafa M, Al-Shattarat, Basiem, **Almakhles, Dhafer**, Abdelhadi, Abdelhakim, Abowardah, Eman S ( 2021 ) Futuristic trends and innovations for examining the performance of course learning outcomes using the Rasch analytical model , Electronics , Vol - 10 , pages 727
+Zeng, Xie, Hammid, Ali Thaeer, Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2021 ) A grasshopper optimization algorithm for optimal short-term hydrothermal scheduling , _Energy Reports_ , Vol - 7 , pages 314--323 [DOI](https://doi.org/10.1016/j.egyr.2020.12.038)
 
-Yang, Zhaojie, Fang, Yi, Cheng, Yu, Chen, Pingping, **Almakhles, Dhafer** ( 2021 ) Protograph LDPC-coded BICM-ID with irregular mapping: An emerging transmission technique for massive Internet of Things , IEEE Transactions on Green Communications and Networking , Vol - 5 , pages 1051--1065
+Nasralla, Moustafa M, Al-Shattarat, Basiem, **Almakhles, Dhafer**, Abdelhadi, Abdelhakim, Abowardah, Eman S ( 2021 ) Futuristic trends and innovations for examining the performance of course learning outcomes using the Rasch analytical model , _Electronics_ , Vol - 10 , pages 727 [DOI](https://doi.org/10.3390/electronics10060727)
 
-Alyami, Saeed, Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Almutairi, Abdulaziz, Obeidat, Mohammed ( 2021 ) Seven level T-type switched capacitor inverter topology for PV applications , IEEE Access , Vol - 9 , pages 85049--85059
+Yang, Zhaojie, Fang, Yi, Cheng, Yu, Chen, Pingping, **Almakhles, Dhafer** ( 2021 ) Protograph LDPC-coded BICM-ID with irregular mapping: An emerging transmission technique for massive Internet of Things , _IEEE Transactions on Green Communications and Networking_ , Vol - 5 , pages 1051--1065 [DOI](https://ieeexplore.ieee.org/document/9367298)
 
-Sathik, Jagabar, Aleem, Shady HE Abdel, Shalchi Alishah, Rasoul, **Almakhles, Dhafer**, Bertilsson, Kent, Bhaskar, Mahajan Sagar, Fernandez Savier, George, Dhandapani, Karthikeyan ( 2021 ) A multilevel inverter topology using diode half-bridge circuit with reduced power component , Energies , Vol - 14 , pages 7249
+Alyami, Saeed, Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Almutairi, Abdulaziz, Obeidat, Mohammed ( 2021 ) Seven level T-type switched capacitor inverter topology for PV applications , _IEEE Access_ , Vol - 9 , pages 85049--85059 [DOI](https://ieeexplore.ieee.org/document/9442726)
 
-Bhaskar, Mahajan Sagar, Gupta, Nikita, Selvam, Sivakumar, **Almakhles, Dhafer**, Sanjeevikumar, Padmanaban, Ali, Jagabar Sathik Mohamed, Umashankar, S ( 2021 ) A new hybrid zeta-boost converter with active quad switched inductor for high voltage gain , IEEE Access , Vol - 9 , pages 20022--20034
+Sathik, Jagabar, Aleem, Shady HE Abdel, Shalchi Alishah, Rasoul, **Almakhles, Dhafer**, Bertilsson, Kent, Bhaskar, Mahajan Sagar, Fernandez Savier, George, Dhandapani, Karthikeyan ( 2021 ) A multilevel inverter topology using diode half-bridge circuit with reduced power component , _Energies_ , Vol - 14 , pages 7249 [DOI](https://doi.org/10.3390/en14217249)
 
-Sathik, M Jagabar, Navamani, J Divya, Lavanya, A, Yang, Yongheng, **Almakhles, Dhafer**, Blaabjerg, Frede ( 2021 ) Reliability analysis of power components in restructured DC/DC converters , IEEE Transactions on Device and Materials Reliability , Vol - 21 , pages 544--555
+Bhaskar, Mahajan Sagar, Gupta, Nikita, Selvam, Sivakumar, **Almakhles, Dhafer**, Sanjeevikumar, Padmanaban, Ali, Jagabar Sathik Mohamed, Umashankar, S ( 2021 ) A new hybrid zeta-boost converter with active quad switched inductor for high voltage gain , _IEEE Access_ , Vol - 9 , pages 20022--20034 [DOI](https://ieeexplore.ieee.org/document/9335588)
 
-Jayaramu, Mohana Lakshmi, Suresh, HN, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Subramaniam, Umashankar ( 2021 ) Real-time implementation of extended Kalman filter observer with improved speed estimation for sensorless control , IEEE Access , Vol - 9 , pages 50452--50465
+Sathik, M Jagabar, Navamani, J Divya, Lavanya, A, Yang, Yongheng, **Almakhles, Dhafer**, Blaabjerg, Frede ( 2021 ) Reliability analysis of power components in restructured DC/DC converters , _IEEE Transactions on Device and Materials Reliability_ , Vol - 21 , pages 544--555 [DOI](https://ieeexplore.ieee.org/document/9555835)
 
-Jayaswal, Kuldeep, Sharma, GS, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Subramaniam, Umashankar, Palwalia, DK ( 2021 ) Global solar insolation estimation and investigation: A case study of various nations and cities , IEEE Access , Vol - 9 , pages 88069--88084
+Jayaramu, Mohana Lakshmi, Suresh, HN, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Subramaniam, Umashankar ( 2021 ) Real-time implementation of extended Kalman filter observer with improved speed estimation for sensorless control , _IEEE Access_ , Vol - 9 , pages 50452--50465 [DOI](https://doi.org/10.1109/ACCESS.2021.3069676)
 
-Mansour, Ayman M, Almutairi, Abdulaziz, Alyami, Saeed, Obeidat, Mohammad A, **Almakhles, Dhafer**, Sathik, Jagabar ( 2021 ) A unique unified wind speed approach to decision-making for dispersed locations , Sustainability , Vol - 13 , pages 9340
+Jayaswal, Kuldeep, Sharma, GS, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Subramaniam, Umashankar, Palwalia, DK ( 2021 ) Global solar insolation estimation and investigation: A case study of various nations and cities , _IEEE Access_ , Vol - 9 , pages 88069--88084 [DOI](https://ieeexplore.ieee.org/document/9455146)
 
-Sumathy, P, Divya, Navamani, Sathik, Jagabar, Lavanya, A, Vijayakumar, K, **Almakhles, Dhafer** ( 2021 ) A comprehensive study on various dc--dc converter voltage-boosting topologies and their applications , Circuit World , Vol - 48 , pages 529--549
+Mansour, Ayman M, Almutairi, Abdulaziz, Alyami, Saeed, Obeidat, Mohammad A, **Almakhles, Dhafer**, Sathik, Jagabar ( 2021 ) A unique unified wind speed approach to decision-making for dispersed locations , _Sustainability_ , Vol - 13 , pages 9340 [DOI](https://doi.org/10.3390/su13169340)
 
-Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , BioMed Research International , Vol - 2021 , pages 1--17
+Sumathy, P, Divya, Navamani, Sathik, Jagabar, Lavanya, A, Vijayakumar, K, **Almakhles, Dhafer** ( 2021 ) A comprehensive study on various dc--dc converter voltage-boosting topologies and their applications , _Circuit World_ , Vol - 48 , pages 529--549 [DOI](https://doi.org/10.1108/CW-12-2020-0338)
 
-Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) Research Article An Expert System for COVID-19 Infection Tracking in Lungs Using Image Processing and Deep Learning Techniques , lung , Vol - 110 , pages 30
+Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
 
-Priyadarshi, Neeraj, Azam, Farooque, Solanki, Sandeep Singh, Sharma, Amarjeet Kumar, Bhoi, Akash Kumar, **Almakhles, Dhafer** ( 2021 ) A bio-inspired chicken swarm optimization-based fuel cell system for electric vehicle applications , Bio-inspired neurocomputing , pages 297--308
-
+Priyadarshi, Neeraj, Azam, Farooque, Solanki, Sandeep Singh, Sharma, Amarjeet Kumar, Bhoi, Akash Kumar, **Almakhles, Dhafer** ( 2021 ) A bio-inspired chicken swarm optimization-based fuel cell system for electric vehicle applications , _Bio-inspired neurocomputing_ , pages 297--308 [DOI](https://doi.org/10.1007/978-981-15-5495-7_16)
 
 *********************************************************************************************
 
