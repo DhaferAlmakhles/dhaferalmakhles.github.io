@@ -22,7 +22,7 @@ Saha, Arindita, Dash, Puja, Bhaskar, MS, **Almakhles, Dhafer**, Elmorshedy, Mahm
 
 **2023**
 
-Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A novel hybrid woade algorithm based mppt employed wecs for water pumping applications: Practical realization. _IEEE Transactions on Industrial Electronics_, 2023. [DOI](https://ieeexplore.ieee.org/document/10083078) 
+Neeraj Priyadarshi, MS Bhaskar, and **Almakhles, Dhafer**. A Novel Hybrid Whale Optimization Algorithm Differential Evolution Algorithm-Based Maximum Power Point Tracking Employed Wind Energy Conversion Systems for Water Pumping Applications: Practical Realization. _IEEE Transactions on Industrial Electronics_, 2023. [DOI](https://ieeexplore.ieee.org/document/10083078) 
 
 Prabhakaran Koothu Kesavan, Umashankar Subramaniam, and **Almakhles, Dhafer**. Reduced switch inverter fed sensorless pmsm drive with multistage mras speed estimator based on stator flux and electromagnetic torque. _IEEE Transactions on Transportation Electrification_, 2023. [DOI](https://ieeexplore.ieee.org/document/10214343)
 
