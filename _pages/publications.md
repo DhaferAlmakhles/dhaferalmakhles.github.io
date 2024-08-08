@@ -30,7 +30,7 @@ Mahmoud Abdelrahim and **Almakhles, Dhafer**. Observer-based control of inductiv
 
 Mahmoud Abdelrahim and **Almakhles, Dhafer**. Synthesis of state/output feedback event-triggered controllers for load frequency regulation in hybrid wind–diesel power systems._Applied Sciences_, 13(17):9652, 2023. [DOI](https://www.mdpi.com/2076-3417/13/17/9652)
 
-Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Dynamic Periodic Event-Triggered Control for Linear Systems Based on Partial State Information [DOI]()
+Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Dynamic Periodic Event-Triggered Control for Linear Systems Based on Partial State Information [DOI](https://www.scitepress.org/Papers/2023/121836/121836.pdf)
 
 Abdelrahim, Mahmoud, **Almakhles, Dhafer** ( 2023 ) Output-Based Dynamic Periodic Event-Triggered Control with Application to the Tunnel Diode System , _Journal of Sensor and Actuator Networks_ , Vol - 12 , pages 66 [DOI](https://doi.org/10.3390/jsan12050066)
 
