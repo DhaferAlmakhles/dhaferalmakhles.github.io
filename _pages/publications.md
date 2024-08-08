@@ -48,7 +48,7 @@ Sathik, Jagabar, Elmorshedy, Mahmoud F, **Almakhles, Dhafer** ( 2023 ) New Boost
 
 Elmorshedy, Mahmoud, Bakeer, Abualkasim, **Almakhles, Dhafer** ( 2023 ) Fixed-Switching Frequency Finite-State Model Predictive Thrust and Primary Flux Linkage Control for LIM , _Journal of Energy and Power Technology_ , Vol - 5 , pages 1--13 [DOI]()
 
-Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, El-Sousy, Fayez FM ( 2023 ) Modified primary flux linkage for enhancing the linear induction motor performance based on sliding mode control and model predictive flux control , _IEEE Access_ , Vol - 11 , pages 26184--26198 [DOI](https://ieeexplore.ieee.org/document/10068513/)
+Elmorshedy, Mahmoud F, **Almakhles, Dhafer**, El-Sousy, Fayez FM ( 2023 ) Modified primary flux linkage for enhancing the linear induction motor performance based on sliding mode control and model predictive flux control , _IEEE Access_ , Vol - 11, pages 26184--26198 [DOI](https://ieeexplore.ieee.org/document/10068513/)
 
 Tharanidharan, Vasudevan, Sakthivel, Rathinasamy, Shanmugam, Harshavarthini, **Almakhles, Dhafer** ( 2023 ) Decentralized observer-based controller design for large-scale systems with quantized measurements and actuator faults , _Asian Journal of Control_ , Vol - 25 , pages 190--200 [DOI](https://doi.org/10.1002/asjc.2766)
 
@@ -140,7 +140,7 @@ Mohanapriya, S, Sakthivel, R, **Almakhles, Dhafer** ( 2022 ) Design of robust tr
 
 Sathik, Jagabar, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2022 ) High Boost Seventeen Level Switched Capacitor Inverter Topology with Continuous Input Current , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ [DOI](https://ieeexplore.ieee.org/document/9991120)
 
-Anand, Vishal, Singh, Varsha, Sathik, Jagabar, **Almakhles, Dhafer** ( 2022 ) Single-stage Five-level Common Ground Transformerless Inverter with Extendable Structure for Centralized Photovoltaics , _CSEE Journal of Power and Energy Systems_ , Vol - 9 , pages 37--49 [DOI](https://xplorestaging.ieee.org/ielx7/7054730/10042172/09979731.pdf?arnumber=9979731)
+Anand, Vishal, Singh, Varsha, Sathik, Jagabar, **Almakhles, Dhafer** ( 2022 ) Single-stage Five-level Common Ground Transformerless Inverter with Extendable Structure for Centralized Photovoltaics , _CSEE Journal of Power and Energy Systems_ , Vol - 9, pages 37--49 [DOI](https://xplorestaging.ieee.org/ielx7/7054730/10042172/09979731.pdf?arnumber=9979731)
 
 Anand, Vishal, Singh, Varsha, Sathik, M Jagabar, **Almakhles, Dhafer** ( 2022 ) A Generalized Switched-Capacitor Multilevel Inverter Topology with Voltage Boosting Ability and Reduced Inrush Current , _Energies_ , Vol - 15 , pages 9158 [DOI]()
 
