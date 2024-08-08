@@ -406,8 +406,6 @@ Azam, Farooque, Biradar, Arun, Priyadarshi, Neeraj, Kumari, Sneha, **Almakhles, 
 
 Karanjgaokar, Gauri Deepak, Bhaskar, MS, Sivakumar, S, Sanjeevikumar, P, Umashankar, S, **Almakhles, Dhafer**. Design and Implementation of Hysteresis Motor with Scrap Material Rotor Ring , pages 1--6, 2021 Published in: _2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)_ [DOI](https://ieeexplore.ieee.org/document/9573874)
 
-Marey, Amr, Bhaskar, MS, **Almakhles, Dhafer**, Sanjeevikumar, P. Primary-Switched-Inductance Single-Ended Converter for E-Vehicles Applications , pages 173--178, 2021 Published in: _2021 3rd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9587632)
-
 *********************************************************************************************
 
 **2020**
@@ -425,14 +423,6 @@ Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, 
 Vaidya, Harshal D, Bhaskar, Mahajan Sagar, Gupta, Nikita, Sanjeevikumar, P, **Almakhles, Dhafer**, Umashankar, S, Leonowicz, Zbigniew. Single-Phase Series Compensator Circuit for Mitigating Voltage Sag or Swell in the Power System Networks-Methodology and Modelling, pages 1--5, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160503)
 
 Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Subramaniam, Umashankar, Leonowicz, Zbigniew, Mitolo, Massimo. Novel non-isolated quad-switched inductor double-switch converter for DC microgrid application , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160839)
-
-Gupta, Nikita, Sivakumar, S, Bhaskar, MS, **Almakhles, Dhafer**, Umashankar, S. 2L-L Triple Port Converter: Enhancement In Voltage Gain for High Voltage Vehicular Loads , pages 1--6, 2020 Published in: _2020 IEEE 7th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)_ [DOI](https://ieeexplore.ieee.org/document/9376473)
-
-Ramchandra, Dalvi Snehal, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Mitolo, Massimo, **Almakhles, Dhafer**, Holm-Nielsen, Jens Bo. Study of Basic Units and Simulation of Passive Light Emitting Diode (LED) Driver Configurations , pages 1--6,  2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160821) 
-
-Gupta, Nikita, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Sanjeevikumar, P, Blaabjerg, Frede, Leonowicz, Zbigniew. Two-tier converter: A new structure of high gain dc-dc converter with reduced voltage stress , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)_ [DOI](https://ieeexplore.ieee.org/document/9160526)
-
-Gupta, Nikita, **Almakhles, Dhafer**, Bhaskar, Mahajan Sagar, Sanjeevikumar, P, Holm-Nielsen, Jens Bo, Mitolo, Massimo. Novel hybrid high gain converter: Combination of cuk and buck-boost structures with switched inductor for dc microgrid , pages 47--52, 2020 Published in: _2020 2nd Global Power, Energy and Communication Conference (GPECOM)_ [DOI](https://ieeexplore.ieee.org/document/9247912)
 
 Gupta, Nikita, Patel, Nil, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. 3nx dc-dc converter: Interleaved topology to enhance voltage transfer gain , pages 1--6, 2020 Published in: _2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)_ [DOI](https://ieeexplore.ieee.org/document/9379588)
 
