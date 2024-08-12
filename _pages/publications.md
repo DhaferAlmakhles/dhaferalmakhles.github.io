@@ -160,49 +160,49 @@ Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Gupta,
 
 ChathuraWanigasekara, Akshya Swain, **Almakhles, Dhafer**, and Lv Zhou. Design of delta–sigma-based pid controller for networked wind energy conversion systems. _IEEE Transactions on Industry Applications_, 58(1):879–889, 2021. [DOI](https://ieeexplore.ieee.org/document/9609574)
 
-Navamani, J Divya, Geetha, A, **Almakhles, Dhafer**, Lavanya, A, Ali, Jagabar Sathik Mohamed ( 2021 ) Modified LUO High Gain DC-DC Converter With Minimal Capacitor Stress for Electric Vehicle Application , _IEEE Access_ , Vol - 9 , pages 122335--122350 [DOI](https://ieeexplore.ieee.org/document/9526557)
+Navamani, J Divya, Geetha, A, **Almakhles, Dhafer**, Lavanya, A, Ali, Jagabar Sathik Mohamed. Modified LUO High Gain DC-DC Converter With Minimal Capacitor Stress for Electric Vehicle Application , _IEEE Access_ , Vol - 9 , pages 122335--122350 [DOI](https://ieeexplore.ieee.org/document/9526557)
 
-Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Gowtham, N, Rao, K Uma ( 2021 ) Critical review of data, models and performance metrics for wind and solar power forecast , _IEEE Access_ , Vol - 10 , pages 667--688 [DOI](https://ieeexplore.ieee.org/document/9658498)
+Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Gowtham, N, Rao, K Uma. Critical review of data, models and performance metrics for wind and solar power forecast , _IEEE Access_ , Vol - 10 , pages 667--688 [DOI](https://ieeexplore.ieee.org/document/9658498)
 
-Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
+Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S . An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
 
-Sathik, M Jagabar, **Almakhles, Dhafer**, Sandeep, N, Siddique, Marif Daula ( 2021 ) Experimental validation of new self-voltage balanced 9L-ANPC inverter for photovoltaic applications , _Scientific reports_ , Vol - 11 , pages 5067 [DOI](https://doi.org/10.1038/s41598-021-84531-z)
+Sathik, M Jagabar, **Almakhles, Dhafer**, Sandeep, N, Siddique, Marif Daula. Experimental validation of new self-voltage balanced 9L-ANPC inverter for photovoltaic applications , _Scientific reports_ , Vol - 11 , pages 5067 [DOI](https://doi.org/10.1038/s41598-021-84531-z)
 
-Sakthivel, R, Harshavarthini, S, **Almakhles, Dhafer**, Kavikumar, R ( 2021 ) Design of uncertainty and disturbance estimator based tracking control for fuzzy switched systems , _IET Control Theory \& Applications_ , Vol - 15 , pages 1804--1817 [DOI]( https://doi.org/10.1049/cth2.12135)
+Sakthivel, R, Harshavarthini, S, **Almakhles, Dhafer**, Kavikumar, R. Design of uncertainty and disturbance estimator based tracking control for fuzzy switched systems , _IET Control Theory \& Applications_ , Vol - 15 , pages 1804--1817 [DOI]( https://doi.org/10.1049/cth2.12135)
 
-Ali, Jagabar Sathik Mohamed, Hota, Arpan, Sandeep, N, **Almakhles, Dhafer** ( 2021 ) A single-stage common ground-type transformerless five-level inverter topology , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ , Vol - 10 , pages 837--845 [DOI](https://ieeexplore.ieee.org/document/9475445)
+Ali, Jagabar Sathik Mohamed, Hota, Arpan, Sandeep, N, **Almakhles, Dhafer**. A single-stage common ground-type transformerless five-level inverter topology , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ , Vol - 10 , pages 837--845 [DOI](https://ieeexplore.ieee.org/document/9475445)
 
-Meena, P, Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer** ( 2021 ) Bi-Furcated Stator Winding Configuration in Three-Phase Induction Generators for Wind Power Generation , _IEEE Access_ , Vol - 9 , pages 153188--153198 [DOI](https://doi.org/10.1109/ACCESS.2021.3127526)
+Meena, P, Prema, V, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**. Bi-Furcated Stator Winding Configuration in Three-Phase Induction Generators for Wind Power Generation , _IEEE Access_ , Vol - 9 , pages 153188--153198 [DOI](https://doi.org/10.1109/ACCESS.2021.3127526)
 
-Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv ( 2021 ) Design of delta--sigma-based PID controller for networked wind energy conversion systems , _IEEE Transactions on Industry Applications_ , Vol - 58 , pages 879--889 [DOI](https://ieeexplore.ieee.org/document/9609574)
+Wanigasekara, Chathura, Swain, Akshya, **Almakhles, Dhafer**, Zhou, Lv. Design of delta--sigma-based PID controller for networked wind energy conversion systems , _IEEE Transactions on Industry Applications_ , Vol - 58 , pages 879--889 [DOI](https://ieeexplore.ieee.org/document/9609574)
 
-**Almakhles, Dhafer** ( 2021 ) A new seven level boost-type ANPC inverter topology for photovoltaic applications , _Scientific Reports_ , Vol - 11 , pages 22487 [DOI](https://doi.org/10.1038/s41598-021-01669-6)
+**Almakhles, Dhafer**. A new seven level boost-type ANPC inverter topology for photovoltaic applications , _Scientific Reports_ , Vol - 11 , pages 22487 [DOI](https://doi.org/10.1038/s41598-021-01669-6)
 
-Zeng, Xie, Hammid, Ali Thaeer, Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2021 ) A grasshopper optimization algorithm for optimal short-term hydrothermal scheduling , _Energy Reports_ , Vol - 7 , pages 314--323 [DOI](https://doi.org/10.1016/j.egyr.2020.12.038)
+Zeng, Xie, Hammid, Ali Thaeer, Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, **Almakhles, Dhafer**. A grasshopper optimization algorithm for optimal short-term hydrothermal scheduling , _Energy Reports_ , Vol - 7 , pages 314--323 [DOI](https://doi.org/10.1016/j.egyr.2020.12.038)
 
-Nasralla, Moustafa M, Al-Shattarat, Basiem, **Almakhles, Dhafer**, Abdelhadi, Abdelhakim, Abowardah, Eman S ( 2021 ) Futuristic trends and innovations for examining the performance of course learning outcomes using the Rasch analytical model , _Electronics_ , Vol - 10 , pages 727 [DOI](https://doi.org/10.3390/electronics10060727)
+Nasralla, Moustafa M, Al-Shattarat, Basiem, **Almakhles, Dhafer**, Abdelhadi, Abdelhakim, Abowardah, Eman S. Futuristic trends and innovations for examining the performance of course learning outcomes using the Rasch analytical model , _Electronics_ , Vol - 10 , pages 727 [DOI](https://doi.org/10.3390/electronics10060727)
 
-Yang, Zhaojie, Fang, Yi, Cheng, Yu, Chen, Pingping, **Almakhles, Dhafer** ( 2021 ) Protograph LDPC-coded BICM-ID with irregular mapping: An emerging transmission technique for massive Internet of Things , _IEEE Transactions on Green Communications and Networking_ , Vol - 5 , pages 1051--1065 [DOI](https://ieeexplore.ieee.org/document/9367298)
+Yang, Zhaojie, Fang, Yi, Cheng, Yu, Chen, Pingping, **Almakhles, Dhafer**. Protograph LDPC-coded BICM-ID with irregular mapping: An emerging transmission technique for massive Internet of Things , _IEEE Transactions on Green Communications and Networking_ , Vol - 5 , pages 1051--1065 [DOI](https://ieeexplore.ieee.org/document/9367298)
 
-Alyami, Saeed, Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Almutairi, Abdulaziz, Obeidat, Mohammed ( 2021 ) Seven level T-type switched capacitor inverter topology for PV applications , _IEEE Access_ , Vol - 9 , pages 85049--85059 [DOI](https://ieeexplore.ieee.org/document/9442726)
+Alyami, Saeed, Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Almutairi, Abdulaziz, Obeidat, Mohammed. Seven level T-type switched capacitor inverter topology for PV applications , _IEEE Access_ , Vol - 9 , pages 85049--85059 [DOI](https://ieeexplore.ieee.org/document/9442726)
 
-Sathik, Jagabar, Aleem, Shady HE Abdel, Shalchi Alishah, Rasoul, **Almakhles, Dhafer**, Bertilsson, Kent, Bhaskar, Mahajan Sagar, Fernandez Savier, George, Dhandapani, Karthikeyan ( 2021 ) A multilevel inverter topology using diode half-bridge circuit with reduced power component , _Energies_ , Vol - 14 , pages 7249 [DOI](https://doi.org/10.3390/en14217249)
+Sathik, Jagabar, Aleem, Shady HE Abdel, Shalchi Alishah, Rasoul, **Almakhles, Dhafer**, Bertilsson, Kent, Bhaskar, Mahajan Sagar, Fernandez Savier, George, Dhandapani, Karthikeyan. A multilevel inverter topology using diode half-bridge circuit with reduced power component , _Energies_ , Vol - 14 , pages 7249 [DOI](https://doi.org/10.3390/en14217249)
 
-Bhaskar, Mahajan Sagar, Gupta, Nikita, Selvam, Sivakumar, **Almakhles, Dhafer**, Sanjeevikumar, Padmanaban, Ali, Jagabar Sathik Mohamed, Umashankar, S ( 2021 ) A new hybrid zeta-boost converter with active quad switched inductor for high voltage gain , _IEEE Access_ , Vol - 9 , pages 20022--20034 [DOI](https://ieeexplore.ieee.org/document/9335588)
+Bhaskar, Mahajan Sagar, Gupta, Nikita, Selvam, Sivakumar, **Almakhles, Dhafer**, Sanjeevikumar, Padmanaban, Ali, Jagabar Sathik Mohamed, Umashankar, S. A new hybrid zeta-boost converter with active quad switched inductor for high voltage gain , _IEEE Access_ , Vol - 9 , pages 20022--20034 [DOI](https://ieeexplore.ieee.org/document/9335588)
 
-Sathik, M Jagabar, Navamani, J Divya, Lavanya, A, Yang, Yongheng, **Almakhles, Dhafer**, Blaabjerg, Frede ( 2021 ) Reliability analysis of power components in restructured DC/DC converters , _IEEE Transactions on Device and Materials Reliability_ , Vol - 21 , pages 544--555 [DOI](https://ieeexplore.ieee.org/document/9555835)
+Sathik, M Jagabar, Navamani, J Divya, Lavanya, A, Yang, Yongheng, **Almakhles, Dhafer**, Blaabjerg, Frede. Reliability analysis of power components in restructured DC/DC converters , _IEEE Transactions on Device and Materials Reliability_ , Vol - 21 , pages 544--555 [DOI](https://ieeexplore.ieee.org/document/9555835)
 
-Jayaramu, Mohana Lakshmi, Suresh, HN, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Subramaniam, Umashankar ( 2021 ) Real-time implementation of extended Kalman filter observer with improved speed estimation for sensorless control , _IEEE Access_ , Vol - 9 , pages 50452--50465 [DOI](https://doi.org/10.1109/ACCESS.2021.3069676)
+Jayaramu, Mohana Lakshmi, Suresh, HN, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Subramaniam, Umashankar. Real-time implementation of extended Kalman filter observer with improved speed estimation for sensorless control , _IEEE Access_ , Vol - 9 , pages 50452--50465 [DOI](https://doi.org/10.1109/ACCESS.2021.3069676)
 
-Jayaswal, Kuldeep, Sharma, GS, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Subramaniam, Umashankar, Palwalia, DK ( 2021 ) Global solar insolation estimation and investigation: A case study of various nations and cities , _IEEE Access_ , Vol - 9 , pages 88069--88084 [DOI](https://ieeexplore.ieee.org/document/9455146)
+Jayaswal, Kuldeep, Sharma, GS, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Subramaniam, Umashankar, Palwalia, DK. Global solar insolation estimation and investigation: A case study of various nations and cities , _IEEE Access_ , Vol - 9 , pages 88069--88084 [DOI](https://ieeexplore.ieee.org/document/9455146)
 
-Mansour, Ayman M, Almutairi, Abdulaziz, Alyami, Saeed, Obeidat, Mohammad A, **Almakhles, Dhafer**, Sathik, Jagabar ( 2021 ) A unique unified wind speed approach to decision-making for dispersed locations , _Sustainability_ , Vol - 13 , pages 9340 [DOI](https://doi.org/10.3390/su13169340)
+Mansour, Ayman M, Almutairi, Abdulaziz, Alyami, Saeed, Obeidat, Mohammad A, **Almakhles, Dhafer**, Sathik, Jagabar. A unique unified wind speed approach to decision-making for dispersed locations , _Sustainability_ , Vol - 13 , pages 9340 [DOI](https://doi.org/10.3390/su13169340)
 
-Sumathy, P, Divya, Navamani, Sathik, Jagabar, Lavanya, A, Vijayakumar, K, **Almakhles, Dhafer** ( 2021 ) A comprehensive study on various dc--dc converter voltage-boosting topologies and their applications , _Circuit World_ , Vol - 48 , pages 529--549 [DOI](https://doi.org/10.1108/CW-12-2020-0338)
+Sumathy, P, Divya, Navamani, Sathik, Jagabar, Lavanya, A, Vijayakumar, K, **Almakhles, Dhafer**. A comprehensive study on various dc--dc converter voltage-boosting topologies and their applications , _Circuit World_ , Vol - 48 , pages 529--549 [DOI](https://doi.org/10.1108/CW-12-2020-0338)
 
-Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S ( 2021 ) An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
+Subramaniam, Umashankar, Subashini, M Monica, **Almakhles, Dhafer**, Karthick, Alagar, Manoharan, S. An expert system for COVID-19 infection tracking in lungs using image processing and deep learning techniques , _BioMed Research International_, Vol - 2021 , pages 1--17 [DOI](https://doi.org/10.1155/2021/1896762)
 
-Priyadarshi, Neeraj, Azam, Farooque, Solanki, Sandeep Singh, Sharma, Amarjeet Kumar, Bhoi, Akash Kumar, **Almakhles, Dhafer** ( 2021 ) A bio-inspired chicken swarm optimization-based fuel cell system for electric vehicle applications , _Bio-inspired neurocomputing_ , pages 297--308 [DOI](https://doi.org/10.1007/978-981-15-5495-7_16)
+Priyadarshi, Neeraj, Azam, Farooque, Solanki, Sandeep Singh, Sharma, Amarjeet Kumar, Bhoi, Akash Kumar, **Almakhles, Dhafer**. A bio-inspired chicken swarm optimization-based fuel cell system for electric vehicle applications , _Bio-inspired neurocomputing_ , pages 297--308 [DOI](https://doi.org/10.1007/978-981-15-5495-7_16)
 
 *********************************************************************************************
 
@@ -222,79 +222,79 @@ S Harshavarthini, Subramaniam Selvi, R Sakthivel, and **Almakhles, Dhafer**. Non
 
 S Harshavarthini, S Selvi, R Sakthivel, and **Almakhles, Dhafer**. Finite-time consensus for power regulation of parallel pv grid-connected inverters. _IEEE Transactions on Circuits and Systems_ II-Express Briefs, 67(11):2647–2651, 2020. [DOI](https://ieeexplore.ieee.org/document/8956041)
 
-Elavarasan, Rajvikram Madurai, Velmurugan, Karthikeyan, Subramaniam, Umashankar, Kumar, A Rakesh, **Almakhles, Dhafer** ( 2020 ) Experimental investigations conducted for the characteristic study of OM29 phase change material and its incorporation in photovoltaic panel , _Energies_ , Vol - 13 , pages 897 [DOI](https://doi.org/10.3390/en13040897)
+Elavarasan, Rajvikram Madurai, Velmurugan, Karthikeyan, Subramaniam, Umashankar, Kumar, A Rakesh, **Almakhles, Dhafer**. Experimental investigations conducted for the characteristic study of OM29 phase change material and its incorporation in photovoltaic panel , _Energies_ , Vol - 13 , pages 897 [DOI](https://doi.org/10.3390/en13040897)
 
-Jegadeesan, Subramani, Azees, Maria, Babu, N Ramesh, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2020 ) EPAW: Efficient privacy preserving anonymous mutual authentication scheme for wireless body area networks (WBANs) , _IEEE Access_ , Vol - 8 , pages 48576--48586 [DOI](https://ieeexplore.ieee.org/document/9022923)
+Jegadeesan, Subramani, Azees, Maria, Babu, N Ramesh, Subramaniam, Umashankar, **Almakhles, Dhafer**. EPAW: Efficient privacy preserving anonymous mutual authentication scheme for wireless body area networks (WBANs) , _IEEE Access_ , Vol - 8 , pages 48576--48586 [DOI](https://ieeexplore.ieee.org/document/9022923)
 
-Siddique, Marif Daula, Iqbal, Atif, Sathik Mohamed Ali, Jagabar, Mekhilef, Saad, **Almakhles, Dhafer** ( 2020 ) Design and implementation of a new unity gain nine-level active neutral point clamped multilevel inverter topology , _IET Power Electronics_ , Vol - 13 , pages 3204--3208 [DOI](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-pel.2020.0437)
+Siddique, Marif Daula, Iqbal, Atif, Sathik Mohamed Ali, Jagabar, Mekhilef, Saad, **Almakhles, Dhafer**. Design and implementation of a new unity gain nine-level active neutral point clamped multilevel inverter topology , _IET Power Electronics_ , Vol - 13 , pages 3204--3208 [DOI](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-pel.2020.0437)
 
-Raju, Kannadasan, Prasad, Valsalal, Elavarasan, Rajvikram Madurai, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2020 ) Development of high gradient ZnO arrester material for high voltage applications , _IEEE Access_ , Vol - 8 , pages 115685--115693 [DOI](https://doi.org/10.1109/ACCESS.2020.3003817)
+Raju, Kannadasan, Prasad, Valsalal, Elavarasan, Rajvikram Madurai, Subramaniam, Umashankar, **Almakhles, Dhafer**. Development of high gradient ZnO arrester material for high voltage applications , _IEEE Access_ , Vol - 8 , pages 115685--115693 [DOI](https://doi.org/10.1109/ACCESS.2020.3003817)
 
-Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, Mathew, Mobi, Ajitha, A, **Almakhles, Dhafer** ( 2020 ) Exergy analysis of thin-film solar PV module in ground-mount, floating and submerged installation methods, _Case Studies in Thermal Engineering_ , Vol - 21 , pages 100686 [DOI](https://doi.org/10.1016/j.csite.2020.100686)
+Kumar, Nallapaneni Manoj, Subramaniam, Umashankar, Mathew, Mobi, Ajitha, A, **Almakhles, Dhafer**. Exergy analysis of thin-film solar PV module in ground-mount, floating and submerged installation methods, _Case Studies in Thermal Engineering_ , Vol - 21 , pages 100686 [DOI](https://doi.org/10.1016/j.csite.2020.100686)
 
-Prem, P, Sivaraman, P, Sakthi Suriya Raj, JS, Jagabar Sathik, M, **Almakhles, Dhafer** ( 2020 ) Fast charging converter and control algorithm for solar PV battery and electrical grid integrated electric vehicle charging station , _Automatika_ , Vol - 61 , pages 614--625 [DOI](https://www.tandfonline.com/doi/full/10.1080/00051144.2020.1810506)
+Prem, P, Sivaraman, P, Sakthi Suriya Raj, JS, Jagabar Sathik, M, **Almakhles, Dhafer**. Fast charging converter and control algorithm for solar PV battery and electrical grid integrated electric vehicle charging station , _Automatika_ , Vol - 61 , pages 614--625 [DOI](https://www.tandfonline.com/doi/full/10.1080/00051144.2020.1810506)
 
-Gunasekaran, Maheswaran, Krishnasamy, Vijayakumar, Selvam, Sivakumar, **Almakhles, Dhafer**, Anglani, Norma ( 2020 ) An adaptive resistance perturbation based MPPT algorithm for photovoltaic applications , _IEEE Access_ , Vol - 8 , pages 196890--196901 [DOI](https://ieeexplore.ieee.org/document/9240920)
+Gunasekaran, Maheswaran, Krishnasamy, Vijayakumar, Selvam, Sivakumar, **Almakhles, Dhafer**, Anglani, Norma. An adaptive resistance perturbation based MPPT algorithm for photovoltaic applications , _IEEE Access_ , Vol - 8 , pages 196890--196901 [DOI](https://ieeexplore.ieee.org/document/9240920)
 
-Sathik, M Jagabar, Sandeep, N, Siddique, Marif Daula, **Almakhles, Dhafer**, Mekhilef, Saad ( 2020 ) Compact seven-level boost type inverter topology , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 68 , pages 1358--1362 [DOI](https://doi.org/10.1109/TCSII.2020.3039387)
+Sathik, M Jagabar, Sandeep, N, Siddique, Marif Daula, **Almakhles, Dhafer**, Mekhilef, Saad. Compact seven-level boost type inverter topology , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 68 , pages 1358--1362 [DOI](https://doi.org/10.1109/TCSII.2020.3039387)
 
-CJ, R Wanigasekara Mudiyanse Ralahamillage, **Almakhles, Dhafer**, Swain, AK, Nguang, SK ( 2020 ) Delta-Modulator Based Quantised Output Feedback Controller for Linear Networked Control Systems , _IEEE Access_ , Vol - 9 , pages 1-10 [DOI](https://ieeexplore.ieee.org/document/9205296)
+CJ, R Wanigasekara Mudiyanse Ralahamillage, **Almakhles, Dhafer**, Swain, AK, Nguang, SK. Delta-Modulator Based Quantised Output Feedback Controller for Linear Networked Control Systems , _IEEE Access_ , Vol - 9 , pages 1-10 [DOI](https://ieeexplore.ieee.org/document/9205296)
 
-Sathik, M Jagabar, Sandeep, N, **Almakhles, Dhafer**, Yaragatti, Udaykumar R ( 2020 ) A five-level boosting inverter for PV application , _IEEE journal of emerging and selected topics in power electronics_ , Vol - 9 , pages 5016--5025 [DOI](https://ieeexplore.ieee.org/document/9305696)
+Sathik, M Jagabar, Sandeep, N, **Almakhles, Dhafer**, Yaragatti, Udaykumar R. A five-level boosting inverter for PV application , _IEEE journal of emerging and selected topics in power electronics_ , Vol - 9 , pages 5016--5025 [DOI](https://ieeexplore.ieee.org/document/9305696)
 
-Harshavarthini, S, Selvi, S, Sakthivel, R, **Almakhles, Dhafer** ( 2020 ) Finite-Time Consensus for Power Regulation of Parallel PV Grid-Connected Inverters , _IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS_ , Vol - 67 , pages 2647--2651 [DOI](https://ieeexplore.ieee.org/document/8956041)
+Harshavarthini, S, Selvi, S, Sakthivel, R, **Almakhles, Dhafer**. Finite-Time Consensus for Power Regulation of Parallel PV Grid-Connected Inverters , _IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS_ , Vol - 67 , pages 2647--2651 [DOI](https://ieeexplore.ieee.org/document/8956041)
 
-**Almakhles, Dhafer**, Akshya Swain, Hou Yuefeng ( 2020 ) Using sigma-delta quantizer Based PI for inductive power transfer systems , _International Journal of Power Electronics and Drive System (IJPEDS)_ , Vol - 11 , pages 1449--1458 [DOI](https://ijpeds.iaescore.com/index.php/IJPEDS/article/view/20359)
+**Almakhles, Dhafer**, Akshya Swain, Hou Yuefeng. Using sigma-delta quantizer Based PI for inductive power transfer systems , _International Journal of Power Electronics and Drive System (IJPEDS)_ , Vol - 11 , pages 1449--1458 [DOI](https://ijpeds.iaescore.com/index.php/IJPEDS/article/view/20359)
 
-Mukundan, CM Nirmal, Jayaprakash, P, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2020 ) Binary hybrid multilevel inverter-based grid integrated solar energy conversion system with damped SOGI control , _IEEE Access_ , Vol - 8 , pages 37214--37228 [DOI](https://ieeexplore.ieee.org/document/9001064)
+Mukundan, CM Nirmal, Jayaprakash, P, Subramaniam, Umashankar, **Almakhles, Dhafer**. Binary hybrid multilevel inverter-based grid integrated solar energy conversion system with damped SOGI control , _IEEE Access_ , Vol - 8 , pages 37214--37228 [DOI](https://ieeexplore.ieee.org/document/9001064)
 
-Sathik, M Jagabar, Sandeep, N, **Almakhles, Dhafer**, Blaabjerg, Frede ( 2020 ) Cross connected compact switched-capacitor multilevel inverter (C 3-SCMLI) topology with reduced switch count , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 67 , pages 3287--3291 [DOI](https://ieeexplore.ieee.org/document/9068273)
+Sathik, M Jagabar, Sandeep, N, **Almakhles, Dhafer**, Blaabjerg, Frede. Cross connected compact switched-capacitor multilevel inverter (C 3-SCMLI) topology with reduced switch count , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 67 , pages 3287--3291 [DOI](https://ieeexplore.ieee.org/document/9068273)
 
-Jagabar Sathik, M, Sandeep, N, **Almakhles, Dhafer**, Blaabjerg, Frede ( 2020 ) Improved “K” type seven-level switched capacitor inverter topology with Self-voltage balancing , _International Journal of Circuit Theory and Applications_ , Vol - 48 , pages 1800--1819 [DOI](https://doi.org/10.1002/cta.2811)
+Jagabar Sathik, M, Sandeep, N, **Almakhles, Dhafer**, Blaabjerg, Frede. Improved “K” type seven-level switched capacitor inverter topology with Self-voltage balancing , _International Journal of Circuit Theory and Applications_ , Vol - 48 , pages 1800--1819 [DOI](https://doi.org/10.1002/cta.2811)
 
-Sakthivel, R, Satheesh, T, Harshavarthini, S, **Almakhles, Dhafer** ( 2020 ) Design of resilient reliable control for uncertain periodic piecewise systems with time-varying delay and disturbances , _Journal of the Franklin Institute_ , Vol - 357 , pages 12326--12345 [DOI](https://doi.org/10.1016/j.jfranklin.2020.09.017)
+Sakthivel, R, Satheesh, T, Harshavarthini, S, **Almakhles, Dhafer**. Design of resilient reliable control for uncertain periodic piecewise systems with time-varying delay and disturbances , _Journal of the Franklin Institute_ , Vol - 357 , pages 12326--12345 [DOI](https://doi.org/10.1016/j.jfranklin.2020.09.017)
 
-Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong ( 2020 ) Delta-modulator-based quantised output feedback controller for linear networked control systems , _IEEE Access_ , Vol - 8 , pages 175169--175179 [DOI](https://ieeexplore.ieee.org/document/9205296)
+Wanigasekara, Chathura, **Almakhles, Dhafer**, Swain, Akshya, Nguang, Sing Kiong. Delta-modulator-based quantised output feedback controller for linear networked control systems , _IEEE Access_ , Vol - 8 , pages 175169--175179 [DOI](https://ieeexplore.ieee.org/document/9205296)
 
-George, Teena, Jayaprakash, P, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2020 ) Frame-angle controlled wavelet modulated inverter and self-recurrent wavelet neural network-based maximum power point tracking for wind energy conversion system , _IEEE Access_ , Vol - 8 , pages 171373--171386 [DOI](https://ieeexplore.ieee.org/document/9201282)
+George, Teena, Jayaprakash, P, Subramaniam, Umashankar, **Almakhles, Dhafer**. Frame-angle controlled wavelet modulated inverter and self-recurrent wavelet neural network-based maximum power point tracking for wind energy conversion system , _IEEE Access_ , Vol - 8 , pages 171373--171386 [DOI](https://ieeexplore.ieee.org/document/9201282)
 
-Mohanapriya, Saminathan, Crispin Sweety, Charles Selvaraj Antony, Sakthivel, Rathinasamy, **Almakhles, Dhafer** ( 2020 ) Tracking and disturbance attenuation control for stochastic switched systems with input delay , _IET Control Theory & Applications_ , Vol - 14 , pages 2847--2856 [DOI](https://doi.org/10.1049/iet-cta.2020.0313)
+Mohanapriya, Saminathan, Crispin Sweety, Charles Selvaraj Antony, Sakthivel, Rathinasamy, **Almakhles, Dhafer**. Tracking and disturbance attenuation control for stochastic switched systems with input delay , _IET Control Theory & Applications_ , Vol - 14 , pages 2847--2856 [DOI](https://doi.org/10.1049/iet-cta.2020.0313)
 
-Mukundan, Nirmal Mukundan Chakkamath, Pychadathil, Jayaprakash, Subramaniam, Umashankar, **Almakhles, Dhafer** ( 2020 ) Trinary hybrid cascaded H-bridge multilevel inverter-based grid-connected solar power transfer system supporting critical load , _IEEE Systems Journal_ , Vol - 15 , pages 4116--4125 [DOI](https://ieeexplore.ieee.org/document/9212587)
+Mukundan, Nirmal Mukundan Chakkamath, Pychadathil, Jayaprakash, Subramaniam, Umashankar, **Almakhles, Dhafer**. Trinary hybrid cascaded H-bridge multilevel inverter-based grid-connected solar power transfer system supporting critical load , _IEEE Systems Journal_ , Vol - 15 , pages 4116--4125 [DOI](https://ieeexplore.ieee.org/document/9212587)
 
-**Almakhles, Dhafer**, Sakthivel, Ramalingam ( 2020 ) Fault estimations and non-fragile control design for fractional-order multi-weighted complex dynamical networks , _IEEE Access_ , Vol - 8 , pages 39513--39524 [DOI](https://doi.org/10.1109/ACCESS.2020.2975835)
+**Almakhles, Dhafer**, Sakthivel, Ramalingam. Fault estimations and non-fragile control design for fractional-order multi-weighted complex dynamical networks , _IEEE Access_ , Vol - 8 , pages 39513--39524 [DOI](https://doi.org/10.1109/ACCESS.2020.2975835)
 
-Mohanapriya, Saminathan, Sakthivel, Rathinasamy, **Almakhles, Dhafer** ( 2020 ) Repetitive control design for vehicle lateral dynamics with state-delay , _IET Control Theory & Applications_ , Vol - 14 , pages 1619--1627 [DOI](https://doi.org/10.1049/iet-cta.2019.1194)
+Mohanapriya, Saminathan, Sakthivel, Rathinasamy, **Almakhles, Dhafer**. Repetitive control design for vehicle lateral dynamics with state-delay , _IET Control Theory & Applications_ , Vol - 14 , pages 1619--1627 [DOI](https://doi.org/10.1049/iet-cta.2019.1194)
 
 Dutta, Nabanita, Palanisamy, Kaliannan, Subramaniam, Umashankar, Padmanaban, Sanjeevikumar, Holm-Nielsen, Jens Bo, Blaabjerg, Frede, **Almakhles, Dhafer** ( 2020 ) Identification of water hammering for centrifugal pump drive systems , _Applied Sciences_ , Vol - 10 , pages 2683 [DOI](https://doi.org/10.3390/app10082683)
 
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Ionel, Dan M, Blaabjerg, Frede, He, Jiangbiao, Kumar, A Rakesh ( 2020 ) Investigation of a transistor clamped T-type multilevel H-bridge inverter with inverted double reference single carrier PWM technique for renewable energy applications , _IEEE Access_ , Vol - 8 , pages 161787--161804 [DOI](https://ieeexplore.ieee.org/document/9181541)
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Ionel, Dan M, Blaabjerg, Frede, He, Jiangbiao, Kumar, A Rakesh. Investigation of a transistor clamped T-type multilevel H-bridge inverter with inverted double reference single carrier PWM technique for renewable energy applications , _IEEE Access_ , Vol - 8 , pages 161787--161804 [DOI](https://ieeexplore.ieee.org/document/9181541)
 
-Kumar, A Rakesh, Deepa, T, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm ( 2020 ) Corrections to “An Improved Harmonics Mitigation Scheme for a Modular Multilevel Converter” , _IEEE Access_ , Vol - 8 , pages 65351--65351 [DOI](https://ieeexplore.ieee.org/document/9044855)
+Kumar, A Rakesh, Deepa, T, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm. Corrections to “An Improved Harmonics Mitigation Scheme for a Modular Multilevel Converter” , _IEEE Access_ , Vol - 8 , pages 65351--65351 [DOI](https://ieeexplore.ieee.org/document/9044855)
 
-Venkatesan, Anantha Krishnan, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar, Swathika, OV Gnana, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Mitolo, Massimo ( 2020 ) Small-signal stability analysis for microgrids under uncertainty using malann control technique , _IEEE Systems Journal_ , Vol - 15 , pages 3797--3807 [DOI](https://ieeexplore.ieee.org/document/9198109)
+Venkatesan, Anantha Krishnan, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar, Swathika, OV Gnana, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Mitolo, Massimo. Small-signal stability analysis for microgrids under uncertainty using malann control technique , _IEEE Systems Journal_ , Vol - 15 , pages 3797--3807 [DOI](https://ieeexplore.ieee.org/document/9198109)
 
-Ponnusamy, Prem, Sivaraman, Pandarinathan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Alagu, Matheswaran, Ali, Jagabar Sathik Mohamed ( 2020 ) A new multilevel inverter topology with reduced power components for domestic solar PV applications , _IEEE Access_ , Vol - 8 , pages 187483--187497 [DOI](https://ieeexplore.ieee.org/document/9222096)
+Ponnusamy, Prem, Sivaraman, Pandarinathan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew, Alagu, Matheswaran, Ali, Jagabar Sathik Mohamed. A new multilevel inverter topology with reduced power components for domestic solar PV applications , _IEEE Access_ , Vol - 8 , pages 187483--187497 [DOI](https://ieeexplore.ieee.org/document/9222096)
 
-Bhaskar, Mahajan Sagar, Ramachandaramurthy, Vigna K, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Ionel, Dan M, Mitolo, Massimo, **Almakhles, Dhafer** ( 2020 ) Survey of DC-DC non-isolated topologies for unidirectional power flow in fuel cell vehicles , _IEEE Access_ , Vol - 8 , pages 178130--178166 [DOI](https://ieeexplore.ieee.org/document/9207732)
+Bhaskar, Mahajan Sagar, Ramachandaramurthy, Vigna K, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Ionel, Dan M, Mitolo, Massimo, **Almakhles, Dhafer**. Survey of DC-DC non-isolated topologies for unidirectional power flow in fuel cell vehicles , _IEEE Access_ , Vol - 8 , pages 178130--178166 [DOI](https://ieeexplore.ieee.org/document/9207732)
 
-Siddique, Marif Daula, Bhaskar, Mahajan Sagar, Rawa, Muhyaddin, Mekhilef, Saad, Memon, Mudasir Ahmed, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2020 ) Single-phase hybrid multilevel inverter topology with low switching frequency modulation techniques for lower order harmonic elimination , _IET Power Electronics_ , Vol - 13 , pages 4117--4127 [DOI](https://doi.org/10.1049/iet-pel.2020.0620)
+Siddique, Marif Daula, Bhaskar, Mahajan Sagar, Rawa, Muhyaddin, Mekhilef, Saad, Memon, Mudasir Ahmed, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Subramaniam, Umashankar. Single-phase hybrid multilevel inverter topology with low switching frequency modulation techniques for lower order harmonic elimination , _IET Power Electronics_ , Vol - 13 , pages 4117--4127 [DOI](https://doi.org/10.1049/iet-pel.2020.0620)
 
-Sanjan, PS, Gowtham, N, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Yamini, NG ( 2020 ) Enhancement of power quality in domestic loads using harmonic filters , IEEE Access , Vol - 8 , pages 197730--197744 [DOI](https://ieeexplore.ieee.org/document/9244118)
+Sanjan, PS, Gowtham, N, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Yamini, NG. Enhancement of power quality in domestic loads using harmonic filters , IEEE Access , Vol - 8 , pages 197730--197744 [DOI](https://ieeexplore.ieee.org/document/9244118)
 
-Subramaniam, Umashankar, Vavilapalli, Sridhar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Holm-Nielsen, Jens Bo, **Almakhles, Dhafer** ( 2020 ) A hybrid PV-battery system for ON-grid and OFF-grid applications—Controller-in-loop simulation validation , Energies , Vol - 13 , pages 755 [DOI](https://doi.org/10.3390/en13030755)
+Subramaniam, Umashankar, Vavilapalli, Sridhar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Holm-Nielsen, Jens Bo, **Almakhles, Dhafer**. A hybrid PV-battery system for ON-grid and OFF-grid applications—Controller-in-loop simulation validation , Energies , Vol - 13 , pages 755 [DOI](https://doi.org/10.3390/en13030755)
 
-**Almakhles, Dhafer**, Ali, Jagabar Sathik Mohamed, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, Sakthivel, Rathinasamy ( 2020 ) An original hybrid multilevel DC-AC converter using single-double source unit for medium voltage applications: Hardware implementation and investigation , _IEEE Access_ , Vol - 8 , pages 71291--71301 [DOI](https://ieeexplore.ieee.org/document/9062550)
+**Almakhles, Dhafer**, Ali, Jagabar Sathik Mohamed, Padmanaban, Sanjeevikumar, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, Sakthivel, Rathinasamy. An original hybrid multilevel DC-AC converter using single-double source unit for medium voltage applications: Hardware implementation and investigation , _IEEE Access_ , Vol - 8 , pages 71291--71301 [DOI](https://ieeexplore.ieee.org/document/9062550)
 
-Jagabar Sathik, M, Sandeep, N, **Almakhles, Dhafer**, Bhatnagar, Kaustubh, Yang, Yongheng, Blaabjerg, Frede ( 2020 ) Seven-level boosting active neutral point clamped inverter using cross-connected switched capacitor cells , _IET Power Electronics_ , Vol - 13 , pages 1919--1924 [DOI](https://doi.org/10.1049/iet-pel.2020.0107)
+Jagabar Sathik, M, Sandeep, N, **Almakhles, Dhafer**, Bhatnagar, Kaustubh, Yang, Yongheng, Blaabjerg, Frede. Seven-level boosting active neutral point clamped inverter using cross-connected switched capacitor cells , _IET Power Electronics_ , Vol - 13 , pages 1919--1924 [DOI](https://doi.org/10.1049/iet-pel.2020.0107)
 
-Siddique, Marif Daula, Ali, Jagabar Sathik Mohamed, Mekhilef, Saad, Mustafa, Asif, Sandeep, N, **Almakhles, Dhafer** ( 2020 ) Reduced switch count based single source 7L boost inverter topology , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 67 , pages 3252--3256 [DOI](https://ieeexplore.ieee.org/document/9068281)
+Siddique, Marif Daula, Ali, Jagabar Sathik Mohamed, Mekhilef, Saad, Mustafa, Asif, Sandeep, N, **Almakhles, Dhafer**. Reduced switch count based single source 7L boost inverter topology , _IEEE Transactions on Circuits and Systems II: Express Briefs_ , Vol - 67 , pages 3252--3256 [DOI](https://ieeexplore.ieee.org/document/9068281)
 
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Holm-Nielsen, Jens Bo, Kumar, A Rakesh, Masebinu, Samson O ( 2020 ) Triple-mode active-passive parallel intermediate links converter with high voltage gain and flexibility in selection of duty cycles , _IEEE access_ , Vol - 8 , pages 134716--134727 [DOI](https://ieeexplore.ieee.org/document/9144502)
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Holm-Nielsen, Jens Bo, Kumar, A Rakesh, Masebinu, Samson O. Triple-mode active-passive parallel intermediate links converter with high voltage gain and flexibility in selection of duty cycles , _IEEE access_ , Vol - 8 , pages 134716--134727 [DOI](https://ieeexplore.ieee.org/document/9144502)
 
-Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Subramaniam, Umashankar, Ionel, Dan M ( 2020 ) Analysis and investigation of hybrid DC--DC non-isolated and non-inverting Nx interleaved multilevel boost converter (Nx-IMBC) for high voltage step-up applications: Hardware implementation , _IEEE Access_ , Vol - 8 , pages 87309--87328 [DOI](https://ieeexplore.ieee.org/document/9086626)
+Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, Subramaniam, Umashankar, Ionel, Dan M. Analysis and investigation of hybrid DC--DC non-isolated and non-inverting Nx interleaved multilevel boost converter (Nx-IMBC) for high voltage step-up applications: Hardware implementation , _IEEE Access_ , Vol - 8 , pages 87309--87328 [DOI](https://ieeexplore.ieee.org/document/9086626)
 
-Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Ibrahim, SA Ahamed, Alyami, Saeed, Selvam, Sivakumar, Bhaskar, Mahajan Sagar ( 2020 ) A generalized multilevel inverter topology with reduction of total standing voltage , _IEEE Access_ , Vol - 8 , pages 168941--168950 [DOI](https://ieeexplore.ieee.org/document/9187204)
+Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Ibrahim, SA Ahamed, Alyami, Saeed, Selvam, Sivakumar, Bhaskar, Mahajan Sagar. A generalized multilevel inverter topology with reduction of total standing voltage , _IEEE Access_ , Vol - 8 , pages 168941--168950 [DOI](https://ieeexplore.ieee.org/document/9187204)
 
 *********************************************************************************************
 
@@ -302,39 +302,39 @@ Ali, Jagabar Sathik Mohamed, **Almakhles, Dhafer**, Ibrahim, SA Ahamed, Alyami, 
 
 **Almakhles, Dhafer**. Robust backstepping sliding mode control for a quadrotor trajectory tracking application. _IEEE Access_, 8:5515–5525, 2019. [DOI](https://ieeexplore.ieee.org/document/8944049)
 
-**Almakhles, Dhafer**, Wanigasekara, Chathura, Swain, Akshya, Almustafa, Khaled, Subramaniyan, Umashankar ( 2019 ) Hybrid delta modulator: stability analysis using sliding mode theory , _Systems Science \& Control Engineering_ , Vol - 7 , pages 234--242 [DOI](https://doi.org/10.1080/21642583.2019.1630861)
+**Almakhles, Dhafer**, Wanigasekara, Chathura, Swain, Akshya, Almustafa, Khaled, Subramaniyan, Umashankar. Hybrid delta modulator: stability analysis using sliding mode theory , _Systems Science \& Control Engineering_ , Vol - 7 , pages 234--242 [DOI](https://doi.org/10.1080/21642583.2019.1630861)
 
-**Almakhles, Dhafer**, Sakthivel, Rathinasamy, Swain, Akshya, Subramaniam, Umashankar, Almustafa, Khaled ( 2019 ) A Generalized One-Bit Control System Using a a ΔΣ -Quantizer , _IEEE Access_ , Vol - 7 , pages 117009--117018 [DOI](https://ieeexplore.ieee.org/document/8807114)
+**Almakhles, Dhafer**, Sakthivel, Rathinasamy, Swain, Akshya, Subramaniam, Umashankar, Almustafa, Khaled. A Generalized One-Bit Control System Using a a ΔΣ -Quantizer , _IEEE Access_ , Vol - 7 , pages 117009--117018 [DOI](https://ieeexplore.ieee.org/document/8807114)
 
-Subramaniam, Umashankar, Bhaskar, Sagar Mahajan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew ( 2019 ) Investigations on EMI mitigation techniques: Intent to reduce grid-tied PV inverter common mode current and voltage , _Energies_ , Vol - 12 , pages 3395 [DOI](https://doi.org/10.3390/en12173395)
+Subramaniam, Umashankar, Bhaskar, Sagar Mahajan, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Leonowicz, Zbigniew. Investigations on EMI mitigation techniques: Intent to reduce grid-tied PV inverter common mode current and voltage , _Energies_ , Vol - 12 , pages 3395 [DOI](https://doi.org/10.3390/en12173395)
 
-Natarajan, Sudhakar, Babu, Thanikanti Sudhakar, Balasubramanian, Karthik, Subramaniam, Umashankar,**Almakhles, Dhafer** ( 2019 ) A state-of-the-art review on conducted electromagnetic interference in non-isolated DC to DC converters , _IEEE Access_ , Vol - 8 , pages 2564--2577 [DOI](https://ieeexplore.ieee.org/document/8941119)
+Natarajan, Sudhakar, Babu, Thanikanti Sudhakar, Balasubramanian, Karthik, Subramaniam, Umashankar,**Almakhles, Dhafer**. A state-of-the-art review on conducted electromagnetic interference in non-isolated DC to DC converters , _IEEE Access_ , Vol - 8 , pages 2564--2577 [DOI](https://ieeexplore.ieee.org/document/8941119)
 
-Sakthivel, R, Mohanapriya, Saminathan, **Almakhles, Dhafer** ( 2019 ) Robust tracking and disturbance rejection performance for vehicle dynamics , _IEEE Access_ , Vol - 7 , pages 118598--118607 [DOI](https://ieeexplore.ieee.org/document/8808910)
+Sakthivel, R, Mohanapriya, Saminathan, **Almakhles, Dhafer**. Robust tracking and disturbance rejection performance for vehicle dynamics , _IEEE Access_ , Vol - 7 , pages 118598--118607 [DOI](https://ieeexplore.ieee.org/document/8808910)
 
-**Almakhles, Dhafer**, Swain, Akshya, Subramaniam, Umashankar ( 2019 ) Single-bit modulator for wireless power transfer system , _International Journal of Power Electronics and Drive Systems_ , Vol - 10 , pages 1270 [DOI](http://doi.org/10.11591/ijpeds.v10.i3.pp1270-1280)
+**Almakhles, Dhafer**, Swain, Akshya, Subramaniam, Umashankar. Single-bit modulator for wireless power transfer system , _International Journal of Power Electronics and Drive Systems_ , Vol - 10 , pages 1270 [DOI](http://doi.org/10.11591/ijpeds.v10.i3.pp1270-1280)
 
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2019 ) Passive actuator fault tolerant control for a class of MIMO nonlinear systems with uncertainties , _International Journal of Control_ , Vol - 92 , pages 693--704 [DOI](https://doi.org/10.1080/00207179.2017.1367102)
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer**. Passive actuator fault tolerant control for a class of MIMO nonlinear systems with uncertainties , _International Journal of Control_ , Vol - 92 , pages 693--704 [DOI](https://doi.org/10.1080/00207179.2017.1367102)
 
-Subramaniam, Umashankar, Ganesan, Swaminathan, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, **Almakhles, Dhafer** ( 2019 ) Investigations of AC microgrid energy management systems using distributed energy resources and plug-in electric vehicles , _Energies_ , Vol - 12 , pages 2834 [DOI](https://doi.org/10.3390/en12142834)
+Subramaniam, Umashankar, Ganesan, Swaminathan, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, Blaabjerg, Frede, **Almakhles, Dhafer**. Investigations of AC microgrid energy management systems using distributed energy resources and plug-in electric vehicles , _Energies_ , Vol - 12 , pages 2834 [DOI](https://doi.org/10.3390/en12142834)
 
-Kumar, A Rakesh, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm ( 2019 ) An improved harmonics mitigation scheme for a modular multilevel converter , _IEEE Access_ , Vol - 7 , pages 147244--147255 [DOI](https://ieeexplore.ieee.org/document/8864969)
+Kumar, A Rakesh, Bhaskar, Mahajan Sagar, Subramaniam, Umashankar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Nielsen, Jens Bo-Holm . An improved harmonics mitigation scheme for a modular multilevel converter , _IEEE Access_ , Vol - 7 , pages 147244--147255 [DOI](https://ieeexplore.ieee.org/document/8864969)
 
 *********************************************************************************************
 
 **2018**
 
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2018 ) Stabilisation of discrete-time polynomial fuzzy systems via a polynomial lyapunov approach , _International Journal of Systems Science_ , Vol - 49 , pages 557--566 [DOI](https://doi.org/10.1080/00207721.2017.1407006)
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer**. Stabilisation of discrete-time polynomial fuzzy systems via a polynomial lyapunov approach , _International Journal of Systems Science_ , Vol - 49 , pages 557--566 [DOI](https://doi.org/10.1080/00207721.2017.1407006)
 
 *********************************************************************************************
 
 **2017**
 
-**Almakhles, Dhafer**, Swain, Akshya K, Nasiri, Alireza ( 2017 ) The dynamic behaviour of data-driven Δ-M and ΔΣ-M in sliding mode control , _International Journal of Control_ , Vol - 90 , pages 2406--2414 [DOI](https://doi.org/10.1080/00207179.2016.1250160)
+**Almakhles, Dhafer**, Swain, Akshya K, Nasiri, Alireza. The dynamic behaviour of data-driven Δ-M and ΔΣ-M in sliding mode control , _International Journal of Control_ , Vol - 90 , pages 2406--2414 [DOI](https://doi.org/10.1080/00207179.2016.1250160)
 
-Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer** ( 2017 ) Reducing Conservatism in an H_inf Robust State-Feedback Control Design of T-S Fuzzy Systems: A Nonmonotonic Approach , _IEEE Transactions on Fuzzy Systems_ , Vol - 26 , pages 386--390 [DOI](https://ieeexplore.ieee.org/document/7809084)
+Nasiri, Alireza, Nguang, Sing Kiong, Swain, Akshya, **Almakhles, Dhafer**. Reducing Conservatism in an H_inf Robust State-Feedback Control Design of T-S Fuzzy Systems: A Nonmonotonic Approach , _IEEE Transactions on Fuzzy Systems_ , Vol - 26 , pages 386--390 [DOI](https://ieeexplore.ieee.org/document/7809084)
 
-Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 ) Robust H∞ output feedback control of bidirectional inductive power transfer systems , _Archives of Control Sciences_ , Vol - 27 [DOI](https://journals.pan.pl/dlibra/publication/120046/edition/104468/content)
+Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza. Robust H∞ output feedback control of bidirectional inductive power transfer systems , _Archives of Control Sciences_ , Vol - 27 [DOI](https://journals.pan.pl/dlibra/publication/120046/edition/104468/content)
 
 *********************************************************************************************
 
@@ -342,7 +342,7 @@ Swain, Akshya, **Almakhles, Dhafer**, Neath, Michael J, Nasiri, Alireza ( 2017 )
 
 **Almakhles, Dhafer**, Akshya K Swain, Alireza Nasiri, and Nitish Patel. An adaptive two-level quantizer for networked control systems. _IEEE Transactions on Control Systems Technology_,25(3):1084–1091, 2016. [DOI](https://ieeexplore.ieee.org/document/7492609)
 
-Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, **Almakhles, Dhafer** ( 2016 ) Robust output feedback controller design of discrete-time Takagi--Sugeno fuzzy systems: a non-monotonic Lyapunov approach , _IET Control Theory & Applications_ , Vol - 10 , pages 545--553 [DOI](https://doi.org/10.1049/iet-cta.2015.0750)
+Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, **Almakhles, Dhafer**. Robust output feedback controller design of discrete-time Takagi--Sugeno fuzzy systems: a non-monotonic Lyapunov approach , _IET Control Theory & Applications_ , Vol - 10 , pages 545--553 [DOI](https://doi.org/10.1049/iet-cta.2015.0750)
 
 *********************************************************************************************
 
