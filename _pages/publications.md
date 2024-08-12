@@ -106,53 +106,53 @@ Savari, George Fernandez, Sathik, M Jagabar, Raman, L Anantha, El-Shahat, Adel, 
 
 Mustafa Alrayah Hassan, Chun-Lien Su, Josep Pou, Giorgio Sulligoi, **Almakhles, Dhafer** , Daniele Bosich, and Josep M Guerrero. Dc shipboard microgrids with constant power loads: A review of advanced nonlinear control strategies and stabilization techniques. _IEEE Transactions on Smart Grid_, 13(5):3422–3438, 2022. [DOI](https://ieeexplore.ieee.org/document/9759475)
 
-**Almakhles, Dhafer**, Jayachandran, Divya Navamani, Anbazhagan, Lavanya, Hannachi, Marwa, Mohamed Ali, Jagabar Sathik ( 2022 ) Dynamic Analysis of Extendable Hybrid Voltage Lift DC--DC Converter for DC Microgrid , _Processes_ , Vol - 10 , pages 2652 [DOI](https://doi.org/10.3390/pr10122652)
+**Almakhles, Dhafer**, Jayachandran, Divya Navamani, Anbazhagan, Lavanya, Hannachi, Marwa, Mohamed Ali, Jagabar Sathik. Dynamic Analysis of Extendable Hybrid Voltage Lift DC--DC Converter for DC Microgrid , _Processes_ , Vol - 10 , pages 2652 [DOI](https://doi.org/10.3390/pr10122652)
 
-Elmorshedy, Mahmoud F, Habib, Habib Ur Rahman, Ali, Mosaad M, Sathik, M Jagabar, **Almakhles, Dhafer** ( 2022 ) Improved Performance of Hybrid PV and Wind Generating System Connected to the Grid Using Finite-Set Model Predictive Control , _IEEE Access_ , Vol - 10 , pages 110344--110361 [DOI](https://ieeexplore.ieee.org/document/9919845)
+Elmorshedy, Mahmoud F, Habib, Habib Ur Rahman, Ali, Mosaad M, Sathik, M Jagabar, **Almakhles, Dhafer**. Improved Performance of Hybrid PV and Wind Generating System Connected to the Grid Using Finite-Set Model Predictive Control , _IEEE Access_ , Vol - 10 , pages 110344--110361 [DOI](https://ieeexplore.ieee.org/document/9919845)
 
-**Almakhles, Dhafer**, Ali, Jagabar Sathik Mohamed, Navamani, J Divya, Lavanya, A, Bhaskar, MS ( 2022 ) Single Switch Module Type DC-DC Converter With Reduction in Voltage Stress , _IEEE Access_ , Vol - 10 , pages 107877--107887 [DOI](https://ieeexplore.ieee.org/document/9913064)
+**Almakhles, Dhafer**, Ali, Jagabar Sathik Mohamed, Navamani, J Divya, Lavanya, A, Bhaskar, MS. Single Switch Module Type DC-DC Converter With Reduction in Voltage Stress , _IEEE Access_ , Vol - 10 , pages 107877--107887 [DOI](https://ieeexplore.ieee.org/document/9913064)
 
-Sarkar, Sushmita, Bhaskar, MS, Rao, K Uma, Prema, V, **Almakhles, Dhafer**, Subramaniam, Umashankar ( 2022 ) Solar PV network installation standards and cost estimation guidelines for smart cities , _Alexandria Engineering Journal_ , Vol - 61 , pages 1277--1287 [DOI](https://doi.org/10.1016/j.aej.2021.06.098)
+Sarkar, Sushmita, Bhaskar, MS, Rao, K Uma, Prema, V, **Almakhles, Dhafer**, Subramaniam, Umashankar. Solar PV network installation standards and cost estimation guidelines for smart cities , _Alexandria Engineering Journal_ , Vol - 61 , pages 1277--1287 [DOI](https://doi.org/10.1016/j.aej.2021.06.098)
 
-Rao, Thamatapu Eswara, Sundaram, Elango, Chenniappan, Sharmeela, **Almakhles, Dhafer**, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar ( 2022 ) Performance improvement of grid interfaced hybrid system using distributed power flow controller optimization techniques , _IEEE Access_ , Vol - 10 , pages 12742--12752 [DOI]()
+Rao, Thamatapu Eswara, Sundaram, Elango, Chenniappan, Sharmeela, **Almakhles, Dhafer**, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar. Performance improvement of grid interfaced hybrid system using distributed power flow controller optimization techniques , _IEEE Access_ , Vol - 10 , pages 12742--12752 [DOI]()
 
-Bhaskar, MS, Subramaniam, Umashankar, Selvam, Sivakumar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Muhibbullah, M ( 2022 ) DC-DC parallel legs linked high gain converter for microgrid applications , _IET Renewable Power Generation_ [DOI](https://doi.org/10.1049/rpg2.12629)
+Bhaskar, MS, Subramaniam, Umashankar, Selvam, Sivakumar, **Almakhles, Dhafer**, Padmanaban, Sanjeevikumar, Muhibbullah, M . DC-DC parallel legs linked high gain converter for microgrid applications , _IET Renewable Power Generation_ [DOI](https://doi.org/10.1049/rpg2.12629)
 
-Jamal, Ihab, Elmorshedy, Mahmoud F, Dabour, Sherif M, Rashad, Essam M, Xu, Wei, **Almakhles, Dhafer** ( 2022 ) A comprehensive review of grid-connected PV systems based on impedance source inverter , _IEEE Access_ , Vol - 10 , pages 89101--89123 [DOI](https://ieeexplore.ieee.org/document/9864191)
+Jamal, Ihab, Elmorshedy, Mahmoud F, Dabour, Sherif M, Rashad, Essam M, Xu, Wei, **Almakhles, Dhafer**. A comprehensive review of grid-connected PV systems based on impedance source inverter , _IEEE Access_ , Vol - 10 , pages 89101--89123 [DOI](https://ieeexplore.ieee.org/document/9864191)
 
-Devaraj, Surya Varchasvi, Gunasekaran, Manavaalan, Sundaram, Elango, Venugopal, Manikandan, Chenniappan, Sharmeela, **Almakhles, Dhafer**, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar ( 2021 ) Robust queen bee assisted genetic algorithm (QBGA) optimized fractional order PID (FOPID) controller for not necessarily minimum phase power converters , _IEEE Access_ , Vol - 9 , pages 93331--93337 [DOI](https://ieeexplore.ieee.org/document/9464343)
+Devaraj, Surya Varchasvi, Gunasekaran, Manavaalan, Sundaram, Elango, Venugopal, Manikandan, Chenniappan, Sharmeela, **Almakhles, Dhafer**, Subramaniam, Umashankar, Bhaskar, Mahajan Sagar. Robust queen bee assisted genetic algorithm (QBGA) optimized fractional order PID (FOPID) controller for not necessarily minimum phase power converters , _IEEE Access_ , Vol - 9 , pages 93331--93337 [DOI](https://ieeexplore.ieee.org/document/9464343)
 
-Sathik, Mohamed AliJagabar, Siddique, Marif Daula, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R ( 2022 ) Compact quadratic boost switched-capacitor inverter , _IEEE Transactions on Industry Applications_ , Vol - 58 , pages 4923--4931 [DOI](https://ieeexplore.ieee.org/document/9767672)
+Sathik, Mohamed AliJagabar, Siddique, Marif Daula, Sandeep, N, Hota, Arpan, **Almakhles, Dhafer**, Mekhilef, Saad, Yaragatti, Udaykumar R. Compact quadratic boost switched-capacitor inverter , _IEEE Transactions on Industry Applications_ , Vol - 58 , pages 4923--4931 [DOI](https://ieeexplore.ieee.org/document/9767672)
 
-Elmorshedy, Mahmoud F, Elkadeem, Mohamed R, Kotb, Kotb M, Taha, Ibrahim BM, El-Nemr, Mohamed K, Kandeal, AW, Sharshir, Swellam W, **Almakhles, Dhafer**, Imam, Sherif M ( 2022 ) Feasibility study and performance analysis of microgrid with 100% hybrid renewables for a real gricultural irrigation application , _Sustainable Energy Technologies and Assessments_ , Vol - 53 , pages 102746 [DOI](https://doi.org/10.1016/j.seta.2022.102746)
+Elmorshedy, Mahmoud F, Elkadeem, Mohamed R, Kotb, Kotb M, Taha, Ibrahim BM, El-Nemr, Mohamed K, Kandeal, AW, Sharshir, Swellam W, **Almakhles, Dhafer**, Imam, Sherif M. Feasibility study and performance analysis of microgrid with 100% hybrid renewables for a real gricultural irrigation application , _Sustainable Energy Technologies and Assessments_ , Vol - 53 , pages 102746 [DOI](https://doi.org/10.1016/j.seta.2022.102746)
 
-Sweetha, S, Sakthivel, R, **Almakhles, Dhafer**, Priyanka, Sargunan ( 2022 ) Non-fragile fault-tolerant control design for fractional-order nonlinear systems with distributed delays and fractional parametric uncertainties , _IEEE Access_ , Vol - 10 , pages 19997--20007 [DOI](https://ieeexplore.ieee.org/document/9709330)
+Sweetha, S, Sakthivel, R, **Almakhles, Dhafer**, Priyanka, Sargunan. Non-fragile fault-tolerant control design for fractional-order nonlinear systems with distributed delays and fractional parametric uncertainties , _IEEE Access_ , Vol - 10 , pages 19997--20007 [DOI](https://ieeexplore.ieee.org/document/9709330)
 
-Sathik, M Jagabar, **Almakhles, Dhafer** ( 2022 ) Common ground type five level inverter with voltage boosting for PV applications , _Scientific Reports_ , Vol - 12 , pages 4924 [DOI](https://doi.org/10.1038/s41598-022-09008-z)
+Sathik, M Jagabar, **Almakhles, Dhafer**. Common ground type five level inverter with voltage boosting for PV applications , _Scientific Reports_ , Vol - 12 , pages 4924 [DOI](https://doi.org/10.1038/s41598-022-09008-z)
 
-Sagar Bhaskar, Mahajan, **Almakhles, Dhafer** ( 2022 ) New Multi-Leg Converter for DC Microgrid with Two Duty Cycles , _Processes_ , Vol - 10 , pages 2520 [DOI](https://doi.org/10.3390/pr10122520)
+Sagar Bhaskar, Mahajan, **Almakhles, Dhafer**. New Multi-Leg Converter for DC Microgrid with Two Duty Cycles , _Processes_ , Vol - 10 , pages 2520 [DOI](https://doi.org/10.3390/pr10122520)
 
-Sathik Mohamed Ali, Jagabar, **Almakhles, Dhafer** ( 2022 ) A comprehensive review of the on-road wireless charging system for E-mobility applications , _Frontiers in Energy Research_ , Vol - 10 , pages 926270 [DOI](https://doi.org/10.3389/fenrg.2022.926270)
+Sathik Mohamed Ali, Jagabar, **Almakhles, Dhafer**. A comprehensive review of the on-road wireless charging system for E-mobility applications , _Frontiers in Energy Research_ , Vol - 10 , pages 926270 [DOI](https://doi.org/10.3389/fenrg.2022.926270)
 
-Navamani, J Divya, Lavanya, A, **Almakhles, Dhafer**, Sathik, M Jagabar ( 2022 ) A review on segregation of various high gain converter configurations for distributed energy sources , _Alexandria Engineering Journal_ , Vol - 61 , pages 675--700 [DOI](https://doi.org/10.1016/j.aej.2021.06.026)
+Navamani, J Divya, Lavanya, A, **Almakhles, Dhafer**, Sathik, M Jagabar. A review on segregation of various high gain converter configurations for distributed energy sources , _Alexandria Engineering Journal_ , Vol - 61 , pages 675--700 [DOI](https://doi.org/10.1016/j.aej.2021.06.026)
 
-Mohanapriya, S, Sakthivel, R, **Almakhles, Dhafer** ( 2022 ) Design of robust tracking and disturbance attenuation control for stochastic control systems , _ISA transactions_ , Vol - 129 , pages 110--120 [DOI](https://doi.org/10.1016/j.isatra.2022.01.034)
+Mohanapriya, S, Sakthivel, R, **Almakhles, Dhafer**. Design of robust tracking and disturbance attenuation control for stochastic control systems , _ISA transactions_ , Vol - 129 , pages 110--120 [DOI](https://doi.org/10.1016/j.isatra.2022.01.034)
 
-Sathik, Jagabar, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F ( 2022 ) High Boost Seventeen Level Switched Capacitor Inverter Topology with Continuous Input Current , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ [DOI](https://ieeexplore.ieee.org/document/9991120)
+Sathik, Jagabar, **Almakhles, Dhafer**, Elmorshedy, Mahmoud F. High Boost Seventeen Level Switched Capacitor Inverter Topology with Continuous Input Current , _IEEE Journal of Emerging and Selected Topics in Power Electronics_ [DOI](https://ieeexplore.ieee.org/document/9991120)
 
-Anand, Vishal, Singh, Varsha, Sathik, Jagabar, **Almakhles, Dhafer** ( 2022 ) Single-stage Five-level Common Ground Transformerless Inverter with Extendable Structure for Centralized Photovoltaics , _CSEE Journal of Power and Energy Systems_ , Vol - 9, pages 37--49 [DOI](https://xplorestaging.ieee.org/ielx7/7054730/10042172/09979731.pdf?arnumber=9979731)
+Anand, Vishal, Singh, Varsha, Sathik, Jagabar, **Almakhles, Dhafer**. Single-stage Five-level Common Ground Transformerless Inverter with Extendable Structure for Centralized Photovoltaics , _CSEE Journal of Power and Energy Systems_ , Vol - 9, pages 37--49 [DOI](https://xplorestaging.ieee.org/ielx7/7054730/10042172/09979731.pdf?arnumber=9979731)
 
-Anand, Vishal, Singh, Varsha, Sathik, M Jagabar, **Almakhles, Dhafer** ( 2022 ) A Generalized Switched-Capacitor Multilevel Inverter Topology with Voltage Boosting Ability and Reduced Inrush Current , _Energies_ , Vol - 15 , pages 9158 [DOI]()
+Anand, Vishal, Singh, Varsha, Sathik, M Jagabar, **Almakhles, Dhafer**. A Generalized Switched-Capacitor Multilevel Inverter Topology with Voltage Boosting Ability and Reduced Inrush Current , _Energies_ , Vol - 15 , pages 9158 [DOI]()
 
-Marey, Amr, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Mostafa, Hala ( 2022 ) Analytical Solution for Transient Reactive Elements for DC-DC Converter Circuits , _Electronics_ , Vol - 11 , pages 3121 [DOI](https://doi.org/10.3390/en15239158)
+Marey, Amr, Bhaskar, Mahajan Sagar, **Almakhles, Dhafer**, Mostafa, Hala. Analytical Solution for Transient Reactive Elements for DC-DC Converter Circuits , _Electronics_ , Vol - 11 , pages 3121 [DOI](https://doi.org/10.3390/en15239158)
 
-Gupta, Nikita, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer** ( 2022 ) DC Microgrids: Advances, Challenges, and Applications.
+Gupta, Nikita, Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**. DC Microgrids: Advances, Challenges, and Applications.
 
-Harshavarthini, S, Sakthivel, R, Satheesh, T, **Almakhles, Dhafer** ( 2022 ) Observer-based tracking control design for periodic piecewise time-varying systems , _Journal of the Franklin Institute_ , Vol - 359 , pages 7262--7282 [DOI](https://doi.org/10.1016/j.jfranklin.2022.08.001)
+Harshavarthini, S, Sakthivel, R, Satheesh, T, **Almakhles, Dhafer**. Observer-based tracking control design for periodic piecewise time-varying systems , _Journal of the Franklin Institute_ , Vol - 359 , pages 7262--7282 [DOI](https://doi.org/10.1016/j.jfranklin.2022.08.001)
 
-Pandurengan, Gopinath Narayanan, Krishnasamy, Vijayakumar, Sathik, Jagabar, **Almakhles, Dhafer** ( 2022 ) Five-Level Transformerless Common Ground Type Inverter with Reduced Device Count , _Informacije MIDEM_ , Vol - 52 , pages 71--82 [DOI](https://ojs.midem-drustvo.si/index.php/InfMIDEM/article/view/1191)
+Pandurengan, Gopinath Narayanan, Krishnasamy, Vijayakumar, Sathik, Jagabar, **Almakhles, Dhafer**. Five-Level Transformerless Common Ground Type Inverter with Reduced Device Count , _Informacije MIDEM_ , Vol - 52 , pages 71--82 [DOI](https://ojs.midem-drustvo.si/index.php/InfMIDEM/article/view/1191)
 
-Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Gupta, Nikita, Subramaniam, Umashankar ( 2022 ) Double-switch switched-inductor converter with minimal switch voltage stress for renewable energy conversion , _Computers & Electrical Engineering_ , Vol - 98 , pages 107682 [DOI](https://doi.org/10.1016/j.compeleceng.2022.107682)
+Bhaskar, Mahajan Sagar, Padmanaban, Sanjeevikumar, **Almakhles, Dhafer**, Gupta, Nikita, Subramaniam, Umashankar. Double-switch switched-inductor converter with minimal switch voltage stress for renewable energy conversion , _Computers & Electrical Engineering_ , Vol - 98 , pages 107682 [DOI](https://doi.org/10.1016/j.compeleceng.2022.107682)
 
 *********************************************************************************************
 
