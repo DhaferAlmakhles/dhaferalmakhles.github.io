@@ -360,7 +360,7 @@ Elmorshedy, Mahmoud F, Bhaskar, MS, **Almakhles, Dhafer**. Loss Minimization for
 
 Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Single Stage Explicit Double Diode Modelled PV Module Powered Linear Induction Motor Driven Water Pump System , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150066)
 
-Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150066](https://ieeexplore.ieee.org/document/10150010)
+Priyadarshi, Neeraj, Bhaskar, MS, **Almakhles, Dhafer**. Realization of PV Power Structure with PSO Tuned Fuzzy Logic Control , pages 1--6, 2023 Published in: _2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)_ [DOI](https://ieeexplore.ieee.org/document/10150010)
 
 Abdelrahim, Mahmoud, Cucuzzella, Michele, **Almakhles, Dhafer**. Output Feedback Event-triggered Control of Doubly Fed Induction Generators For Wind Turbines, 2023 Published in: _2023 11th International Conference on Smart Grid (icSmartGrid)_ [DOI](https://ieeexplore.ieee.org/document/10170798)
 
