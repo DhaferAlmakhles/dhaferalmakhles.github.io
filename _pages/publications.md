@@ -4,6 +4,28 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+*********************************************************************************************
+**PHD THESIS**
+
+**Almakhles, Dhafer** Two-Level Dynamic Quantizers for Feedback Control Systems. PhD thesis, ResearchSpace@ Auckland, 2016
+_www.Auckland.ac.nz/PhDDhafer_
+
+*********************************************************************************************
+**PATENTS**
+
+Sridhar Vavilpalli, Umashankar Subramaniam, and **Almakhles, Dhafer**. Buck-chopper and bi-directional chopper for multilevel cascaded h-bridge inverters, August 24 2021. US Patent 11,101,742
+
+Mahajan Sagar Bhaskar, **Almakhles, Dhafer**, Umashankar Subramaniam, Sanjeevikumar Padmanaban, and Sakthivel Rathinasamy. Microgrid power supply system dc-dc converter and controlling method, January 25 2022. US Patent 11,233,452
+
+*********************************************************************************************
+**BOOKS**
+
+Jiwei Wen, Alireza Nasiri, Sing Kiong Nguang, and  **Almakhles, Dhafer**. Non-monotonic approach to robust h8 control of multi-model systems, 2019
+
+Mahajan Sagar Bhaskar,  **Almakhles, Dhafer**, Umashankar Subramaniam, Sanjeevikumar Padmanaban, and Sakthivel Rathinasamy. Microgrid power supply system dc-dc converter and controlling method, January 25 2022. US Patent 11,233,452
+
+*********************************************************************************************
 **JOURNAL ARTICLES**
 
 **2024**
