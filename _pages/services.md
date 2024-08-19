@@ -5,6 +5,25 @@ permalink: /services/
 author_profile: true
 ---
 
+
+**Services: Accreditation & Reviews**
+
+**International Accreditation Monitor**, Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Nov. 2021)
+
+**Member**, Accreditation External Review Panel | Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
+
+**Chair** , Accreditation External Review Panel | Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Feb 2022)
+
+**Chair** , Accreditation External Review Panel | Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (March 2023)
+
+**Accreditation Consultant** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
+
+**Member** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (October 2020)
+
+**Chair** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (October 2022)
+
+
+
 **Publication Chair** IEEE sponsored _International Conference On Human-Centered Cognitive Systems_ (HCCS 2022) 17th December 2023, hosted by Nanjing Section Zhejiang University of Science and Technology.
 
 **Guest Editorial**: Highly efficient and reliable power converters for microgrid applications, _Front. Energy Res._, 12 January 2023, Sec. Smart Grids
@@ -42,3 +61,18 @@ National Institute of Technology, Jamshedpur, India.
 **Book Editor of DC Microgrids Advances**, Challenges, and Applications, _Wiley-Scrivener_, USA., 2023.
 
 **Member of Unmanned Systems Track Committee** at the _First International Conference of Smart Systems and Emerging Technologies (SMARTTECH)_- 3-5 Nov. 2020, Organized by Prince Sultan University, Riyadh, Saudi Arabia.
+
+**********************************************************************************************
+**Committee Memberships**
+
+
+**********************************************************************************************
+**Council Associations**
+
+Member , Engineering College Council (October, 2018)
+
+Chair , Department Of Communications And Networks Council (October, 2016)
+
+Coordinator , Advisory Board Council For College Of Engineering, PSU (October, 2019)
+
+**********************************************************************************************
