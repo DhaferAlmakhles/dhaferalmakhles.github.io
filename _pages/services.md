@@ -10,9 +10,9 @@ author_profile: true
 
 **International Accreditation Monitor**, Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Nov. 2021)
 
-**Member**, Accreditation External Review Panel | Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
+**Member**, Accreditation External Review Panel | Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
 
-**Chair** , Accreditation External Review Panel | Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Feb 2022)
+**Chair** , Accreditation External Review Panel | Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Feb 2022)
 
 **Chair** , Accreditation External Review Panel | Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (March 2023)
 
