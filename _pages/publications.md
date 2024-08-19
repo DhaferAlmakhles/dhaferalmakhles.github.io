@@ -500,10 +500,3 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 
 **Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
 
-*********************************************************************************************
-
-**BOOKS EDITED**
-
-*********************************************************************************************
-
-**BOOK CHAPTERS**
