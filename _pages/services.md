@@ -33,7 +33,7 @@ author_profile: true
 
 **Guest Editors** (2022) for _MDPI Processes Journal’s Special Issue_ on “Robust Control Techniques and State Estimation in Dynamic Systems.”
 
-**Member of the Editorial Board** of the _Journal of Advances in Applied Computational Mathematics_ Since 2018 
+**Member of the Editorial Board** of the _Journal of Advances in Applied & Computational Mathematics_ Since 2018 
 
 **Topic Associate Editor** for _Frontiers in Mechanical Engineering_, Oct. 2016
 
