@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Editorial Board, Special Issues, and Session Services"
+title: "Services: Accreditation, Journal Board & Committee Memberships, and Council Associations"
 permalink: /services/
 author_profile: true
 ---
