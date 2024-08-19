@@ -8,7 +8,7 @@ author_profile: true
 **********************************************************************************************
 **Accreditations & Reviews**
 
-**International Accreditation Monitor**, Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Nov. 2021
+**International Accreditation Monitor**, Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Nov. 2021
 
 **Member**, Accreditation External Review Panel, Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
 
