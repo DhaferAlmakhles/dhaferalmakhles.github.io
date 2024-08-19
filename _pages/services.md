@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Accreditation, Journal Board & Committee Memberships, and Council Associations"
+title: "Accreditations, Journal Board & Committee Memberships, and Council Associations"
 permalink: /services/
 author_profile: true
 ---
 
 **********************************************************************************************
-**Accreditation & Reviews**
+**Accreditations & Reviews**
 
 **International Accreditation Monitor**, Education & Training Evaluation Commission**, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ (Nov. 2021)
 
