@@ -66,10 +66,10 @@ https://www.iecon-2024.org/
 **********************************************************************************************
 **Council Associations**
 
-**Member** , Engineering College Council (October, 2018)
+**Member** , _Engineering College Council_, Oct 2018
 
-**Chair** , Department Of Communications And Networks Council (October, 2016)
+**Chair** , _Department Of Communications And Networks Council_ , Oct 2016
 
-**Coordinator** , Advisory Board Council For College Of Engineering, PSU (October, 2019)
+**Coordinator** , _Advisory Board Council For College Of Engineering_, Prince Sultan University, Oct 2019
 
 **********************************************************************************************
