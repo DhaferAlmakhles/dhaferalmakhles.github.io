@@ -14,16 +14,14 @@ author_profile: true
 *********************************************************************************************
 **PATENTS**
 
-Sridhar Vavilpalli, Umashankar Subramaniam, and **Almakhles, Dhafer**. Buck-chopper and bi-directional chopper for multilevel cascaded h-bridge inverters, August 24 2021. US Patent 11,101,742
+Sridhar Vavilpalli, Umashankar Subramaniam, and **Almakhles, Dhafer**. Buck-chopper and bi-directional chopper for multilevel cascaded h-bridge inverters, August 24 2021. U.S. Patent No. 11,101,742. Washington, DC: U.S. Patent and Trademark Office.  
 
-Mahajan Sagar Bhaskar, **Almakhles, Dhafer**, Umashankar Subramaniam, Sanjeevikumar Padmanaban, and Sakthivel Rathinasamy. Microgrid power supply system dc-dc converter and controlling method, January 25 2022. US Patent 11,233,452
+Mahajan Sagar Bhaskar, **Almakhles, Dhafer**, Umashankar Subramaniam, Sanjeevikumar Padmanaban, and Sakthivel Rathinasamy. Microgrid power supply system dc-dc converter and controlling method, January 25 2022. U.S. Patent No. 11,233,452. Washington, DC: U.S. Patent and Trademark Office.
 
 *********************************************************************************************
-**BOOKS**
+**BOOK**
 
-Jiwei Wen, Alireza Nasiri, Sing Kiong Nguang, and  **Almakhles, Dhafer**. Non-monotonic approach to robust h8 control of multi-model systems, 2019
-
-Mahajan Sagar Bhaskar,  **Almakhles, Dhafer**, Umashankar Subramaniam, Sanjeevikumar Padmanaban, and Sakthivel Rathinasamy. Microgrid power supply system dc-dc converter and controlling method, January 25 2022. US Patent 11,233,452
+Jiwei Wen, Alireza Nasiri, Sing Kiong Nguang, and  **Almakhles, Dhafer**. Non-monotonic approach to robust H∞ control of multi-model systems, _Academic Press_, 2019.
 
 *********************************************************************************************
 **JOURNAL ARTICLES**
