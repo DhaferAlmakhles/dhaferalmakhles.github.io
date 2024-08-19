@@ -14,13 +14,13 @@ author_profile: true
 
 **Chair** , Accreditation External Review Panel, Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Feb 2022
 
-**Chair** , Accreditation External Review Panel, Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , March 2023
+**Chair** , Accreditation External Review Panel, Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Mar 2023
 
 **Accreditation Consultant** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__
 
-**Member** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , October 2020
+**Member** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Oct 2020
 
-**Chair** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , October 2022
+**Chair** , Education & Training Evaluation Commission, __National Center For Academic Accreditation & Evaluation (ETEC-NCAAA)__ , Oct 2022
 
 **********************************************************************************************
 **Journal Board & Committee (Executive, Organizing, Program) Memberships**
