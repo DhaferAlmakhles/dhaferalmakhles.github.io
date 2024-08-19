@@ -66,10 +66,10 @@ https://www.iecon-2024.org/
 **********************************************************************************************
 **Council Associations**
 
-Member , Engineering College Council (October, 2018)
+**Member** , Engineering College Council (October, 2018)
 
-Chair , Department Of Communications And Networks Council (October, 2016)
+**Chair** , Department Of Communications And Networks Council (October, 2016)
 
-Coordinator , Advisory Board Council For College Of Engineering, PSU (October, 2019)
+**Coordinator** , Advisory Board Council For College Of Engineering, PSU (October, 2019)
 
 **********************************************************************************************
