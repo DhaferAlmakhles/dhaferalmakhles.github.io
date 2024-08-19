@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services: Accreditation, Journal Board & Committee Memberships, and Council Associations"
+title: "Accreditation, Journal Board & Committee Memberships, and Council Associations"
 permalink: /services/
 author_profile: true
 ---
