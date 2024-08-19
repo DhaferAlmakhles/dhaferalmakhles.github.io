@@ -59,9 +59,9 @@ Singapore.https://www.iecon2023.org/
 **Special Session**: SS07: DC-DC Power Conversion- Innovations in Typologies, Control Strategies, and Diverse Applications, 50th Annual _Conference of the IEEE Industrial Electronics Society (IES)_, 3-6 Nov. 2024, Chicago.
 https://www.iecon-2024.org/
 
-**Book Editor of DC Microgrids Advances**, Challenges, and Applications, _Wiley-Scrivener_, USA., 2023.
-
 **Member of Unmanned Systems Track Committee** at the _First International Conference of Smart Systems and Emerging Technologies (SMARTTECH)_- 3-5 Nov. 2020, Organized by Prince Sultan University, Riyadh, Saudi Arabia.
+
+**Book Editor of DC Microgrids Advances**, Challenges, and Applications, _Wiley-Scrivener_, USA., 2023.
 
 **********************************************************************************************
 **Council Associations**
