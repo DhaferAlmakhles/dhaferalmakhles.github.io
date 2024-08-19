@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Journal Publications**
+**JOURNAL ARTICLES**
 
 **2024**
 
@@ -352,7 +352,7 @@ Nasiri, Alireza, Kiong Nguang, Sing, Swain, Akshya, **Almakhles, Dhafer**. Robus
 
 ***************************************************************************************************************
 
-**Conferences**
+**CONFERENCE PROCEEDINGS**
 
 **2023**
 
@@ -477,3 +477,11 @@ Swain, Akshya, **Almakhles, Dhafer**, Hou, Yuefeng, Patel, Nitish, Madawala, Uda
 **2012**
 
 **Almakhles, Dhafer**, Swain, Akshya, Patel, Nitish. Delta-Sigma based bit-stream controller for a D.C. motor , pages 1--5, 2012 Published in: _TENCON 2012 IEEE Region 10 Conference_ [DOI](https://ieeexplore.ieee.org/document/6412242)
+
+*********************************************************************************************
+
+**BOOKS EDITED**
+
+*********************************************************************************************
+
+**BOOK CHAPTERS**
