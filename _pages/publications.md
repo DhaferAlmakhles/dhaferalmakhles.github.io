@@ -8,8 +8,8 @@ author_profile: true
 *********************************************************************************************
 **PHD THESIS**
 
-**Almakhles, Dhafer** Two-Level Dynamic Quantizers for Feedback Control Systems. PhD thesis, ResearchSpace@ Auckland, 2016
-[https://researchspace.auckland.ac.nz/](https://researchspace.auckland.ac.nz/handle/2292/28924)
+**Almakhles, Dhafer** Two-Level Dynamic Quantizers for Feedback Control Systems. PhD thesis, 2016
+[ResearchSpace@Auckland](https://researchspace.auckland.ac.nz/handle/2292/28924)
 
 *********************************************************************************************
 **PATENTS**
