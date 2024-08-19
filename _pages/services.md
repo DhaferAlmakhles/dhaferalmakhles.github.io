@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Editorial Board and Organized Special Issues/SessionServices"
+title: "Editorial Board, Special Issues, and Session Services"
 permalink: /services/
 author_profile: true
 ---
